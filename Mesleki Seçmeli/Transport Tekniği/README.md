@@ -1,0 +1,29 @@
+# 📚 Transport Tekniği
+
+## ℹ️ Ders Bilgileri
+
+- 🏷️ **Ders Tipi:** Seçmeli
+- 🏷️ **Müfredat:** Her İki Müfredat
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok.
+- 💬 **Öğrenci Görüşleri:**
+    - ℹ️ Henüz yorum yok.
+
+## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2022-2023**:
+  - **OG** — Doç. Dr. Oğuz Girit
+- **2021-2022**:
+  - **OG** — Doç. Dr. Oğuz Girit
+- **2020-2021**:
+  - **OG** — Doç. Dr. Oğuz Girit
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2021-2022 ve 2022-2023 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Doç. Dr. Oğuz Girit](../../README.md#‍-doç-dr-oğuz-girit)**
+    - ✍️ Henüz yorum yok.
+
+## 🤝 Katkıda Bulun
+
+Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!

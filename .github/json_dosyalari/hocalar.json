@@ -1,0 +1,863 @@
+{
+    "bolum_adi": "Hocalar",
+    "bolum_aciklamasi": "📚 Bu bölüm, Marmara Üniversitesi Teknoloji Fakültesi Makine Mühendisliği bölümündeki hocaların detaylı bilgilerini içerir. Hocaların adları, ofis bilgileri, araştırma sayfalarının bağlantıları ve verdikleri bazı dersler bu bölümde listelenmektedir. Hocaların puanlamaları tamamen subjektiftir ve 0-10 yıldız arasında yapılmıştır.",
+    "gruplar": [
+        {
+            "ad": "Profesörler",
+            "aciklama": ""
+        },
+        {
+            "ad": "Doçentler",
+            "aciklama": ""
+        },
+        {
+            "ad": "Doktor Öğretim Üyeleri",
+            "aciklama": ""
+        },
+        {
+            "ad": "Öğretim Görevlileri",
+            "aciklama": ""
+        },
+        {
+            "ad": "Araştırma Görevlileri",
+            "aciklama": ""
+        },
+        {
+            "ad": "Diğer Bölümlerden Ders Veren Hocalar",
+            "aciklama": "Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) veren, başka bölümlerden gelen hocalar."
+        },
+        {
+            "ad": "Önceki Yıllarda Ders Veren Hocalar",
+            "aciklama": "Son iki akademik yılda bölümde dersi görünmeyen hocalar."
+        }
+    ],
+    "hocalar": [
+        {
+            "ad": "Doç. Dr. Abdullah Demir",
+            "kisaltma": "AD",
+            "grup": "Doçentler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "İş Sağlığı ve Güvenliği",
+                "Bitirme Projesi",
+                "Güç Aktarma ve Yön Kontrol Sistemleri",
+                "Hibrit ve Elektrikli Taşıtlar",
+                "Servis İşletmeciliği ve Müşteri İlişkileri",
+                "Teknoloji ve Ar-Ge Yönetimi",
+                "Bilim Tarihi",
+                "Osmanlı Tarihi"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Abdullah Mert Pekel",
+            "kisaltma": "AMP",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": true,
+            "dersler": [
+                "İngilizce 1",
+                "İngilizce 2"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Ahmet Feyzioğlu",
+            "kisaltma": "AF",
+            "grup": "Doçentler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Endüstriyel Hidrolik ve Pnömatik",
+                "İş Yeri Eğitimi",
+                "Mühendislik Ekonomisi ve Uygulamaları",
+                "Bitirme Projesi",
+                "Üretim Yönetimi",
+                "Kalite ve Kontrol",
+                "Teknoloji ve Ar-Ge Yönetimi",
+                "Girişimcilik",
+                "Liderlik"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Ahmet Talat İnan",
+            "kisaltma": "ATİ",
+            "grup": "Profesörler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Bitirme Projesi",
+                "Çevre Koruma",
+                "Kazanlar ve Yakıcılar",
+                "Pompalar ve Kompresörler",
+                "Yenilenebilir Enerji Kaynakları",
+                "Çevre ve Enerji"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Ayhan Etyemez",
+            "kisaltma": "AE",
+            "grup": "Doçentler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Teknik İngilizce",
+                "Bitirme Projesi",
+                "Bilgisayarla Bütünleşik İmalat Teknikleri",
+                "Ergonomi",
+                "İş Planı ve Ticarileşme",
+                "Talaşlı İmalat Teknikleri",
+                "Rapor Hazırlama ve Sunum Teknikleri"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Ayhan Onat",
+            "kisaltma": "AO",
+            "grup": "Profesörler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "İş Sağlığı ve Güvenliği",
+                "Termodinamik 1",
+                "Isı Geçişi",
+                "Termodinamik 2",
+                "Bitirme Projesi",
+                "Isıtma Havalandırma Teknikleri",
+                "İklimlendirme Projesi",
+                "İklimlendirme Teknikleri",
+                "Soğutma Teknikleri"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Aysu Öztürk",
+            "kisaltma": "AÖ",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "İngilizce 1"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Barış Doğan",
+            "kisaltma": "BD",
+            "grup": "Doktor Öğretim Üyeleri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Endüstriyel Otomatik Kontrol"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Barkın Bakır",
+            "kisaltma": "BB",
+            "grup": "Doktor Öğretim Üyeleri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Diferansiyel Denklemler",
+                "Makine Elemanları 2",
+                "Makine Dinamiği ve Mekanizma Tekniği",
+                "Bilgisayar Destekli İmalat",
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi",
+                "Havacılıkta Akışkan Sistemler için Sayısal Yöntemler ve Modelleme",
+                "Tasarı Geometri"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Bilçen Mutlu Mitil",
+            "kisaltma": "BMM",
+            "grup": "Doktor Öğretim Üyeleri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": false,
+            "dersler": [
+                "Statik",
+                "Dinamik",
+                "Mukavemet",
+                "Makine Elemanları 1",
+                "Makine Dinamiği ve Mekanizma Tekniği",
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Buket Doğan",
+            "kisaltma": "BDOĞ",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "Temel Bilgi Teknolojisi Kullanımı"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Cenk Sayın",
+            "kisaltma": "CS",
+            "grup": "Profesörler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Motorlar",
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi",
+                "Taşıt Aerodinamiği",
+                "Taşıt Emisyonları ve Kontrolü",
+                "Taşıt Teknolojisi"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Cihat Boyraz",
+            "kisaltma": "CB",
+            "grup": "Profesörler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Fizik 1",
+                "Matematik 1",
+                "Lineer Cebir",
+                "Fizik 2",
+                "Matematik 2",
+                "Sayısal Analiz",
+                "Bitirme Projesi"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Emre Taşcıoğlu",
+            "kisaltma": "ET",
+            "grup": "Öğretim Görevlileri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Temel Bilgi Teknolojisi Kullanımı",
+                "Bitirme Projesi",
+                "Talaşlı İmalat Mekaniği ve Kesme Teorileri"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Erkan Dursun",
+            "kisaltma": "ED",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": true,
+            "dersler": [
+                "Elektrik ve Elektroniğin Temelleri"
+            ]
+        },
+        {
+            "ad": "Arş. Gör. Dr. Esin Bozkurt Kopuz",
+            "kisaltma": "EBK",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "Sayısal Analiz"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Faruk Aydın",
+            "kisaltma": "FA",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": true,
+            "dersler": [
+                "Elektrik ve Elektroniğin Temelleri"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Ferhat Güngör",
+            "kisaltma": "FG",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": true,
+            "dersler": [
+                "Mühendislik Ekonomisi ve Uygulamaları",
+                "Bitirme Projesi",
+                "Üretim Yönetimi"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Gürcan Atakök",
+            "kisaltma": "GA",
+            "grup": "Doktor Öğretim Üyeleri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Temel Bilgi Teknolojisi Kullanımı",
+                "Ölçme Tekniği ve İstatistik",
+                "Bilgisayar Destekli İmalat",
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi",
+                "Bilgisayar Destekli Geometrik Modelleme Teknikleri"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Hasan Aydın",
+            "kisaltma": "HA",
+            "grup": "Öğretim Görevlileri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Endüstriyel Hidrolik ve Pnömatik",
+                "Endüstriyel Otomasyon ve Robotlar"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu",
+            "kisaltma": "IRS",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": false,
+            "dersler": [
+                "İngilizce 1",
+                "İngilizce 2"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. İlker Turgut Yılmaz",
+            "kisaltma": "İTY",
+            "grup": "Doçentler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi",
+                "Motor ve Taşıt Performans Test Teknikleri",
+                "Otomotiv Elektrik ve Elektroniği",
+                "Otomotiv Mekatroniği",
+                "Taşıt Emisyonları ve Kontrolü",
+                "Yakıtlar ve Yanma"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. İlyas Kartal",
+            "kisaltma": "İK",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Malzeme Bilimi ve Mühendisliği"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. İrem Konca",
+            "kisaltma": "İKON",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "İngilizce 1",
+                "İngilizce 2"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Mahmut Çelik",
+            "kisaltma": "MÇ",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": true,
+            "dersler": [
+                "İş Hukuku ve Etiği"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Mehmet Kocakaplan",
+            "kisaltma": "MK",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Türk Dili 1",
+                "Türk Dili 2"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Mehmet Vehbi Büker",
+            "kisaltma": "MVB",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": true,
+            "dersler": [
+                "Türk Dili 1",
+                "Türk Dili 2"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Merve Uysal",
+            "kisaltma": "MU",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "İş Hukuku ve Etiği"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Metin Gümüş",
+            "kisaltma": "MG",
+            "grup": "Profesörler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Makine Mühendisliğine Giriş",
+                "Teknik İngilizce",
+                "Motorlar",
+                "Bitirme Projesi",
+                "Gaz Türbinleri",
+                "Hibrit ve Elektrikli Taşıtlar",
+                "Bilim Tarihi"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Muammer Kantarcı",
+            "kisaltma": "MKAN",
+            "grup": "Öğretim Görevlileri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Çevre Koruma"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Muhittin Şimşek",
+            "kisaltma": "MŞ",
+            "grup": "Profesörler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Toplam Kalite Yönetimi",
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi",
+                "Kalite Yönetimi",
+                "Teknoloji Yönetimi"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Murat Bakal",
+            "kisaltma": "MB",
+            "grup": "Öğretim Görevlileri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Gemi Makinaları Teknikleri"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Murat Şen",
+            "kisaltma": "MŞEN",
+            "grup": "Doktor Öğretim Üyeleri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Dinamik",
+                "Makine Elemanları 1",
+                "Bitirme Projesi",
+                "Bilgisayarla Bütünleşik İmalat Teknikleri",
+                "Makine Tasarım Uygulamaları",
+                "Tedarik Zinciri Planlama ve Optimizasyon Teknolojileri",
+                "Yapay Zeka ve Makine Öğrenimi"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Mustafa Atmaca",
+            "kisaltma": "MA",
+            "grup": "Profesörler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Akışkanlar Mekaniği",
+                "Termodinamik 1",
+                "Termodinamik 2",
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi",
+                "Doğal Gaz Teknolojisi",
+                "İklimlendirme Teknikleri",
+                "Mekanik Tesisat Teknikleri"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Mustafa Ay",
+            "kisaltma": "MAY",
+            "grup": "Profesörler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Bilgisayar Destekli Meslek Resmi",
+                "İmal Usulleri",
+                "Bitirme Projesi",
+                "İş ve Takım Bağlama Kalıp Tasarımı",
+                "Makine Tasarım Uygulamaları",
+                "Talaşlı İmalat Teknikleri"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Mustafa Kemal Bilici",
+            "kisaltma": "MKB",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": true,
+            "dersler": [
+                "Teknik Resim",
+                "Bilgisayar Destekli Meslek Resmi"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Mustafa Osman Isıkan",
+            "kisaltma": "MOI",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": true,
+            "dersler": [
+                "Makine Mühendisliğine Giriş",
+                "Teknik İngilizce",
+                "Isı Geçişi",
+                "Bitirme Projesi"
+            ]
+        },
+        {
+            "ad": "Arş. Gör. Dr. Mustafa Vargün",
+            "kisaltma": "MV",
+            "grup": "Araştırma Görevlileri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "İş Yeri Eğitimi"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Neslihan Bayraktar",
+            "kisaltma": "NB",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": false,
+            "dersler": [
+                "Girişimcilik"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Nurgül Yıldız",
+            "kisaltma": "NY",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "Türk Dili 1",
+                "Türk Dili 2"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Oğuz Girit",
+            "kisaltma": "OG",
+            "grup": "Doçentler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi",
+                "Bilgisayar Destekli Kalıp Tasarımı",
+                "Dövme Kalıp Teknikleri",
+                "Enjeksiyon Kalıp Teknikleri",
+                "Mühendislik Malzemeleri",
+                "Transport Tekniği"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Onur Akar",
+            "kisaltma": "OA",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": true,
+            "dersler": [
+                "Enerji Ekonomisi ve Yönetimi"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Oya Ayhan Girit",
+            "kisaltma": "OAG",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": false,
+            "dersler": [
+                "Atatürk İlkeleri ve İnkılap Tarihi 1",
+                "Atatürk İlkeleri ve İnkılap Tarihi 2"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Özge Akay Sefer",
+            "kisaltma": "ÖAS",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "Rapor Hazırlama ve Sunum Teknikleri"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Sabahattin Deniz",
+            "kisaltma": "SD",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Kimya"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Sanem Soner",
+            "kisaltma": "SS",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "İngilizce 2"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Seçil Varbak Neşe",
+            "kisaltma": "SVN",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "Elektrik ve Elektroniğin Temelleri"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Selim Hartomacıoğlu",
+            "kisaltma": "SH",
+            "grup": "Doçentler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Makine Mühendisliğine Giriş",
+                "Teknik Resim",
+                "Bilgisayar Destekli Meslek Resmi",
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi",
+                "Deneysel Tasarım",
+                "İş Planı ve Ticarileşme",
+                "Makine Tasarım Uygulamaları",
+                "Malzemelerin Mekanik Davranışı",
+                "Modern İmalat Teknikleri ve Yaklaşımları",
+                "Sonlu Elemanlar Yöntemleri",
+                "Yeni Ürün Geliştirme"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Senai Yalçınkaya",
+            "kisaltma": "SY",
+            "grup": "Doktor Öğretim Üyeleri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "İmalat İşlemleri",
+                "Bitirme Projesi",
+                "Malzemelerin Mekanik Davranışı",
+                "Modern İmalat Teknikleri ve Yaklaşımları",
+                "Otomotiv İmalat Teknikleri",
+                "Talaşlı İmalat Teknikleri",
+                "Talaşlı İmalatta Deneysel Yöntemler"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Süleyman Demir",
+            "kisaltma": "SDEM",
+            "grup": "Öğretim Görevlileri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Deneysel Tasarım",
+                "Sonlu Elemanlar Yöntemleri"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Ümit Kemalettin Terzi",
+            "kisaltma": "ÜKT",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Elektrik ve Elektroniğin Temelleri"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Yahya Bozkurt",
+            "kisaltma": "YB",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "İş Sağlığı ve Güvenliği 1"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Yasemin Bulut",
+            "kisaltma": "YBUL",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "Türk Dili 1",
+                "Türk Dili 2"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Yusuf Kaynak",
+            "kisaltma": "YK",
+            "grup": "Profesörler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Malzeme Bilimi ve Mühendisliği",
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi",
+                "Malzemelerin Mekanik Davranışı",
+                "Plastik Şekil Verme Teorileri",
+                "Talaşlı İmalat Mekaniği ve Kesme Teorileri"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Zeynel Şahin",
+            "kisaltma": "ZŞ",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Kimya"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Zeynep Başak Ergen",
+            "kisaltma": "ZBE",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "İş Hukuku ve Etiği"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Zeynep Beyza Kabataş Soyer",
+            "kisaltma": "ZBKS",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": false,
+            "dersler": [
+                "İş Hukuku ve Etiği"
+            ]
+        }
+    ]
+}

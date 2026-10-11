@@ -1,0 +1,185 @@
+# 📚 Bitirme Projesi
+
+## ℹ️ Ders Bilgileri
+
+- 🏷️ **Ders Tipi:** Zorunlu
+- 🏷️ **Müfredat:** Her İki Müfredat
+- ⭐ **Yıldız Sayıları:**
+    - ℹ️ Henüz yıldız veren yok.
+- 💬 **Öğrenci Görüşleri:**
+    - ℹ️ Henüz yorum yok.
+
+## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
+- **2025-2026**:
+  - **BMM** — Dr. Öğretim Üyesi Bilçen Mutlu Mitil
+  - **CB** — Prof. Dr. Cihat Boyraz
+  - **ATİ** — Prof. Dr. Ahmet Talat İnan
+  - **İTY** — Doç. Dr. İlker Turgut Yılmaz
+  - **OG** — Doç. Dr. Oğuz Girit
+  - **AE** — Doç. Dr. Ayhan Etyemez
+  - **AF** — Doç. Dr. Ahmet Feyzioğlu
+  - **SH** — Doç. Dr. Selim Hartomacıoğlu
+  - **BB** — Dr. Öğretim Üyesi Barkın Bakır
+  - **GA** — Dr. Öğretim Üyesi Gürcan Atakök
+  - **MŞ** — Prof. Dr. Muhittin Şimşek
+  - **MŞEN** — Dr. Öğretim Üyesi Murat Şen
+  - **SY** — Dr. Öğretim Üyesi Senai Yalçınkaya
+  - **ET** — Öğr. Gör. Emre Taşcıoğlu
+  - **CS** — Prof. Dr. Cenk Sayın
+  - **MA** — Prof. Dr. Mustafa Atmaca
+  - **MAY** — Prof. Dr. Mustafa Ay
+  - **MG** — Prof. Dr. Metin Gümüş
+  - **AO** — Prof. Dr. Ayhan Onat
+  - **YK** — Prof. Dr. Yusuf Kaynak
+  - **AD** — Doç. Dr. Abdullah Demir
+- **2024-2025**:
+  - **YK** — Prof. Dr. Yusuf Kaynak
+  - **AF** — Doç. Dr. Ahmet Feyzioğlu
+  - **ATİ** — Prof. Dr. Ahmet Talat İnan
+  - **AD** — Doç. Dr. Abdullah Demir
+  - **İTY** — Doç. Dr. İlker Turgut Yılmaz
+  - **SH** — Doç. Dr. Selim Hartomacıoğlu
+  - **OG** — Doç. Dr. Oğuz Girit
+  - **MŞEN** — Dr. Öğretim Üyesi Murat Şen
+  - **GA** — Dr. Öğretim Üyesi Gürcan Atakök
+  - **BB** — Dr. Öğretim Üyesi Barkın Bakır
+  - **BMM** — Dr. Öğretim Üyesi Bilçen Mutlu Mitil
+  - **MG** — Prof. Dr. Metin Gümüş
+  - **CS** — Prof. Dr. Cenk Sayın
+  - **MA** — Prof. Dr. Mustafa Atmaca
+  - **MAY** — Prof. Dr. Mustafa Ay
+  - **MŞ** — Prof. Dr. Muhittin Şimşek
+  - **AE** — Doç. Dr. Ayhan Etyemez
+  - **CB** — Prof. Dr. Cihat Boyraz
+  - **AO** — Prof. Dr. Ayhan Onat
+- **2023-2024**:
+  - **BB** — Dr. Öğretim Üyesi Barkın Bakır
+  - **ATİ** — Prof. Dr. Ahmet Talat İnan
+  - **AF** — Doç. Dr. Ahmet Feyzioğlu
+  - **OG** — Doç. Dr. Oğuz Girit
+  - **AE** — Doç. Dr. Ayhan Etyemez
+  - **İTY** — Doç. Dr. İlker Turgut Yılmaz
+  - **SH** — Doç. Dr. Selim Hartomacıoğlu
+  - **SY** — Dr. Öğretim Üyesi Senai Yalçınkaya
+  - **BMM** — Dr. Öğretim Üyesi Bilçen Mutlu Mitil
+  - **MŞ** — Prof. Dr. Muhittin Şimşek
+  - **GA** — Dr. Öğretim Üyesi Gürcan Atakök
+  - **MA** — Prof. Dr. Mustafa Atmaca
+  - **MŞEN** — Dr. Öğretim Üyesi Murat Şen
+  - **MG** — Prof. Dr. Metin Gümüş
+  - **CS** — Prof. Dr. Cenk Sayın
+  - **MAY** — Prof. Dr. Mustafa Ay
+  - **YK** — Prof. Dr. Yusuf Kaynak
+  - **AO** — Prof. Dr. Ayhan Onat
+  - **CB** — Prof. Dr. Cihat Boyraz
+  - **AD** — Doç. Dr. Abdullah Demir
+- **2022-2023**:
+  - **AD** — Doç. Dr. Abdullah Demir
+  - **SY** — Dr. Öğretim Üyesi Senai Yalçınkaya
+  - **MG** — Prof. Dr. Metin Gümüş
+  - **MŞ** — Prof. Dr. Muhittin Şimşek
+  - **MAY** — Prof. Dr. Mustafa Ay
+  - **OG** — Doç. Dr. Oğuz Girit
+  - **MOI** — Prof. Dr. Mustafa Osman Isıkan
+  - **SH** — Doç. Dr. Selim Hartomacıoğlu
+  - **YK** — Prof. Dr. Yusuf Kaynak
+  - **BMM** — Dr. Öğretim Üyesi Bilçen Mutlu Mitil
+  - **BB** — Dr. Öğretim Üyesi Barkın Bakır
+  - **ATİ** — Prof. Dr. Ahmet Talat İnan
+  - **AO** — Prof. Dr. Ayhan Onat
+  - **AF** — Doç. Dr. Ahmet Feyzioğlu
+  - **CB** — Prof. Dr. Cihat Boyraz
+  - **CS** — Prof. Dr. Cenk Sayın
+  - **GA** — Dr. Öğretim Üyesi Gürcan Atakök
+  - **İTY** — Doç. Dr. İlker Turgut Yılmaz
+  - **MA** — Prof. Dr. Mustafa Atmaca
+- **2021-2022**:
+  - **MOI** — Prof. Dr. Mustafa Osman Isıkan
+  - **ATİ** — Prof. Dr. Ahmet Talat İnan
+  - **AD** — Doç. Dr. Abdullah Demir
+  - **BB** — Dr. Öğretim Üyesi Barkın Bakır
+  - **FG** — Dr. Öğretim Üyesi Ferhat Güngör
+  - **GA** — Dr. Öğretim Üyesi Gürcan Atakök
+  - **OG** — Doç. Dr. Oğuz Girit
+  - **İTY** — Doç. Dr. İlker Turgut Yılmaz
+  - **SY** — Dr. Öğretim Üyesi Senai Yalçınkaya
+  - **SH** — Doç. Dr. Selim Hartomacıoğlu
+  - **AF** — Doç. Dr. Ahmet Feyzioğlu
+  - **MŞ** — Prof. Dr. Muhittin Şimşek
+  - **MG** — Prof. Dr. Metin Gümüş
+  - **CS** — Prof. Dr. Cenk Sayın
+  - **MA** — Prof. Dr. Mustafa Atmaca
+  - **MAY** — Prof. Dr. Mustafa Ay
+  - **YK** — Prof. Dr. Yusuf Kaynak
+  - **AO** — Prof. Dr. Ayhan Onat
+  - **CB** — Prof. Dr. Cihat Boyraz
+- **2020-2021**:
+  - **MA** — Prof. Dr. Mustafa Atmaca
+  - **AF** — Doç. Dr. Ahmet Feyzioğlu
+  - **BB** — Dr. Öğretim Üyesi Barkın Bakır
+  - **MAY** — Prof. Dr. Mustafa Ay
+  - **AD** — Doç. Dr. Abdullah Demir
+  - **FG** — Dr. Öğretim Üyesi Ferhat Güngör
+  - **GA** — Dr. Öğretim Üyesi Gürcan Atakök
+  - **OG** — Doç. Dr. Oğuz Girit
+  - **İTY** — Doç. Dr. İlker Turgut Yılmaz
+  - **SH** — Doç. Dr. Selim Hartomacıoğlu
+  - **SY** — Dr. Öğretim Üyesi Senai Yalçınkaya
+  - **MOI** — Prof. Dr. Mustafa Osman Isıkan
+  - **MŞ** — Prof. Dr. Muhittin Şimşek
+  - **CS** — Prof. Dr. Cenk Sayın
+  - **YK** — Prof. Dr. Yusuf Kaynak
+  - **AO** — Prof. Dr. Ayhan Onat
+  - **ATİ** — Prof. Dr. Ahmet Talat İnan
+  - **CB** — Prof. Dr. Cihat Boyraz
+
+## 💬 Bu Dersi Veren Hocalar Hakkında
+
+Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
+
+- **[Dr. Öğretim Üyesi Bilçen Mutlu Mitil](../../README.md#‍-dr-öğretim-üyesi-bilçen-mutlu-mitil)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Cihat Boyraz](../../README.md#‍-prof-dr-cihat-boyraz)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Ahmet Talat İnan](../../README.md#‍-prof-dr-ahmet-talat-i̇nan)**
+    - ✍️ Henüz yorum yok.
+- **[Doç. Dr. İlker Turgut Yılmaz](../../README.md#‍-doç-dr-i̇lker-turgut-yılmaz)**
+    - ✍️ Henüz yorum yok.
+- **[Doç. Dr. Oğuz Girit](../../README.md#‍-doç-dr-oğuz-girit)**
+    - ✍️ Henüz yorum yok.
+- **[Doç. Dr. Ayhan Etyemez](../../README.md#‍-doç-dr-ayhan-etyemez)**
+    - ✍️ Henüz yorum yok.
+- **[Doç. Dr. Ahmet Feyzioğlu](../../README.md#‍-doç-dr-ahmet-feyzioğlu)**
+    - ✍️ Henüz yorum yok.
+- **[Doç. Dr. Selim Hartomacıoğlu](../../README.md#‍-doç-dr-selim-hartomacıoğlu)**
+    - ✍️ Henüz yorum yok.
+- **[Dr. Öğretim Üyesi Barkın Bakır](../../README.md#‍-dr-öğretim-üyesi-barkın-bakır)**
+    - ✍️ Henüz yorum yok.
+- **[Dr. Öğretim Üyesi Gürcan Atakök](../../README.md#‍-dr-öğretim-üyesi-gürcan-atakök)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Muhittin Şimşek](../../README.md#‍-prof-dr-muhittin-şimşek)**
+    - ✍️ Henüz yorum yok.
+- **[Dr. Öğretim Üyesi Murat Şen](../../README.md#‍-dr-öğretim-üyesi-murat-şen)**
+    - ✍️ Henüz yorum yok.
+- **[Dr. Öğretim Üyesi Senai Yalçınkaya](../../README.md#‍-dr-öğretim-üyesi-senai-yalçınkaya)**
+    - ✍️ Henüz yorum yok.
+- **[Öğr. Gör. Emre Taşcıoğlu](../../README.md#‍-öğr-gör-emre-taşcıoğlu)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Cenk Sayın](../../README.md#‍-prof-dr-cenk-sayın)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Mustafa Atmaca](../../README.md#‍-prof-dr-mustafa-atmaca)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Mustafa Ay](../../README.md#‍-prof-dr-mustafa-ay)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Metin Gümüş](../../README.md#‍-prof-dr-metin-gümüş)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Ayhan Onat](../../README.md#‍-prof-dr-ayhan-onat)**
+    - ✍️ Henüz yorum yok.
+- **[Prof. Dr. Yusuf Kaynak](../../README.md#‍-prof-dr-yusuf-kaynak)**
+    - ✍️ Henüz yorum yok.
+- **[Doç. Dr. Abdullah Demir](../../README.md#‍-doç-dr-abdullah-demir)**
+    - ✍️ Henüz yorum yok.
+
+## 🤝 Katkıda Bulun
+
+Bu derse ait notun, çıkmış sorun, ödev çözümün ya da faydalı bir kaynağın varsa [📖 katkıda bulunma rehberine](../../CONTRIBUTING.md) göz at, birkaç dakikada ekleyebilirsin!
