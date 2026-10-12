@@ -6,7 +6,9 @@ Marmara Üniversitesi Teknoloji Fakültesi Makine Mühendisliği öğrencileri i
 
 📬 Öğrenciler ve hocalar, derslerle ilgili hakaret içermeyen geri bildirimlerinizi aşağıdaki linkler aracılığıyla anonim olarak paylaşabilirsiniz.
 
-- ℹ️ Geri bildirim formları yakında eklenecek.
+- [✍️ **Hocalar için yorum linki**](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform)
+- [✍️ **Dersler için yorum linki**](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform)
+- [⭐ **Dersler için oylama linki**](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform)
 
 ## 🤝 Katkıda Bulunun
 
@@ -158,9 +160,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Temel%20Bilgi%20Teknolojisi%20Kullan%C4%B1m%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Temel%20Bilgi%20Teknolojisi%20Kullan%C4%B1m%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [GA](#‍-dr-öğretim-üyesi-gürcan-atakök)
   - 📂 [Ders Klasörü](./1-1/Temel%20Bilgi%20Teknolojisi%20Kullan%C4%B1m%C4%B1)
@@ -170,9 +172,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Fizik%201) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Fizik%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [CB](#‍-prof-dr-cihat-boyraz)
   - 📂 [Ders Klasörü](./1-1/Fizik%201)
@@ -183,9 +185,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** 2026 Sonrası
       - ℹ️ 2026 öncesi müfredatta tek ders olarak "İş Sağlığı ve Güvenliği" adıyla 1. yarıyılda (1-1) yer alıyor.
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%201) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [YB](#‍-prof-dr-yahya-bozkurt)
   - 📂 [Ders Klasörü](./1-1/%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%201)
@@ -195,9 +197,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Kimya) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Kimya) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [ZŞ](#‍-dr-öğretim-üyesi-zeynel-şahin)
   - 📂 [Ders Klasörü](./1-1/Kimya)
@@ -207,9 +209,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Makine%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Makine%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [MG](#‍-prof-dr-metin-gümüş)
   - 📂 [Ders Klasörü](./1-1/Makine%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F)
@@ -219,9 +221,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Matematik%201) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Matematik%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [CB](#‍-prof-dr-cihat-boyraz)
   - 📂 [Ders Klasörü](./1-1/Matematik%201)
@@ -231,9 +233,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Lineer%20Cebir) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Lineer%20Cebir) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [CB](#‍-prof-dr-cihat-boyraz)
   - 📂 [Ders Klasörü](./1-1/Lineer%20Cebir)
@@ -243,9 +245,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=T%C3%BCrk%20Dili%201) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=T%C3%BCrk%20Dili%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [MK](#‍-öğr-gör-dr-mehmet-kocakaplan)
   - 📂 [Ders Klasörü](./1-1/T%C3%BCrk%20Dili%201)
@@ -255,9 +257,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0ngilizce%201) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0ngilizce%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [IRS](#‍-öğr-gör-dr-işıl-ruacan-silahtaroğlu)
   - 📂 [Ders Klasörü](./1-1/%C4%B0ngilizce%201)
@@ -268,9 +270,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** 2026 Öncesi
       - ℹ️ 2026 sonrası müfredatta yerini "İş Sağlığı ve Güvenliği 1" ve "İş Sağlığı ve Güvenliği 2" almış.
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027** (bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı): [AD](#‍-doç-dr-abdullah-demir)
   - 📂 [Ders Klasörü](./1-1/%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi)
@@ -282,9 +284,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Fizik%202) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Fizik%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [CB](#‍-prof-dr-cihat-boyraz)
   - 📂 [Ders Klasörü](./1-2/Fizik%202)
@@ -295,9 +297,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Müfredat:** 2026 Sonrası
       - ℹ️ 2026 öncesi müfredatta tek ders olarak "İş Sağlığı ve Güvenliği" adıyla 1. yarıyılda (1-1) yer alıyor.
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%202) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./1-2/%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%202)
 
 
@@ -305,9 +307,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Statik) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Statik) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [BMM](#‍-dr-öğretim-üyesi-bilçen-mutlu-mitil)
   - 📂 [Ders Klasörü](./1-2/Statik)
@@ -317,9 +319,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0malat%20%C4%B0%C5%9Flemleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0malat%20%C4%B0%C5%9Flemleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [SY](#‍-dr-öğretim-üyesi-senai-yalçınkaya)
   - 📂 [Ders Klasörü](./1-2/%C4%B0malat%20%C4%B0%C5%9Flemleri)
@@ -329,9 +331,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Teknik%20Resim) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Teknik%20Resim) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [SH](#‍-doç-dr-selim-hartomacıoğlu)
   - 📂 [Ders Klasörü](./1-2/Teknik%20Resim)
@@ -341,9 +343,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Matematik%202) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Matematik%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [CB](#‍-prof-dr-cihat-boyraz)
   - 📂 [Ders Klasörü](./1-2/Matematik%202)
@@ -353,9 +355,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Malzeme%20Bilimi%20ve%20M%C3%BChendisli%C4%9Fi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Malzeme%20Bilimi%20ve%20M%C3%BChendisli%C4%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [İK](#‍-doç-dr-i̇lyas-kartal)
   - 📂 [Ders Klasörü](./1-2/Malzeme%20Bilimi%20ve%20M%C3%BChendisli%C4%9Fi)
@@ -365,9 +367,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=T%C3%BCrk%20Dili%202) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=T%C3%BCrk%20Dili%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [MK](#‍-öğr-gör-dr-mehmet-kocakaplan)
   - 📂 [Ders Klasörü](./1-2/T%C3%BCrk%20Dili%202)
@@ -377,9 +379,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0ngilizce%202) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0ngilizce%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [IRS](#‍-öğr-gör-dr-işıl-ruacan-silahtaroğlu)
   - 📂 [Ders Klasörü](./1-2/%C4%B0ngilizce%202)
@@ -391,9 +393,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Ak%C4%B1%C5%9Fkanlar%20Mekani%C4%9Fi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Ak%C4%B1%C5%9Fkanlar%20Mekani%C4%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [MA](#‍-prof-dr-mustafa-atmaca)
   - 📂 [Ders Klasörü](./2-1/Ak%C4%B1%C5%9Fkanlar%20Mekani%C4%9Fi)
@@ -403,9 +405,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Bilgisayar%20Destekli%20Meslek%20Resmi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Bilgisayar%20Destekli%20Meslek%20Resmi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [SH](#‍-doç-dr-selim-hartomacıoğlu)
   - 📂 [Ders Klasörü](./2-1/Bilgisayar%20Destekli%20Meslek%20Resmi)
@@ -415,9 +417,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Dinamik) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Dinamik) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [MŞEN](#‍-dr-öğretim-üyesi-murat-şen)
   - 📂 [Ders Klasörü](./2-1/Dinamik)
@@ -427,9 +429,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Diferansiyel%20Denklemler) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Diferansiyel%20Denklemler) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [BB](#‍-dr-öğretim-üyesi-barkın-bakır)
   - 📂 [Ders Klasörü](./2-1/Diferansiyel%20Denklemler)
@@ -439,9 +441,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Teknik%20%C4%B0ngilizce) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Teknik%20%C4%B0ngilizce) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [AE](#‍-doç-dr-ayhan-etyemez)
   - 📂 [Ders Klasörü](./2-1/Teknik%20%C4%B0ngilizce)
@@ -453,9 +455,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Elektrik%20ve%20Elektroni%C4%9Fin%20Temelleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Elektrik%20ve%20Elektroni%C4%9Fin%20Temelleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [ÜKT](#‍-prof-dr-ümit-kemalettin-terzi)
   - 📂 [Ders Klasörü](./2-2/Elektrik%20ve%20Elektroni%C4%9Fin%20Temelleri)
@@ -465,9 +467,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0mal%20Usulleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0mal%20Usulleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [MAY](#‍-prof-dr-mustafa-ay)
   - 📂 [Ders Klasörü](./2-2/%C4%B0mal%20Usulleri)
@@ -477,9 +479,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Mukavemet) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Mukavemet) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [BMM](#‍-dr-öğretim-üyesi-bilçen-mutlu-mitil)
   - 📂 [Ders Klasörü](./2-2/Mukavemet)
@@ -489,9 +491,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C3%96l%C3%A7me%20Tekni%C4%9Fi%20ve%20%C4%B0statistik) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C3%96l%C3%A7me%20Tekni%C4%9Fi%20ve%20%C4%B0statistik) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [GA](#‍-dr-öğretim-üyesi-gürcan-atakök)
   - 📂 [Ders Klasörü](./2-2/%C3%96l%C3%A7me%20Tekni%C4%9Fi%20ve%20%C4%B0statistik)
@@ -501,9 +503,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Termodinamik%201) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Termodinamik%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [MA](#‍-prof-dr-mustafa-atmaca), [AO](#‍-prof-dr-ayhan-onat)
   - 📂 [Ders Klasörü](./2-2/Termodinamik%201)
@@ -513,9 +515,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Say%C4%B1sal%20Analiz) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Say%C4%B1sal%20Analiz) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [CB](#‍-prof-dr-cihat-boyraz)
   - 📂 [Ders Klasörü](./2-2/Say%C4%B1sal%20Analiz)
@@ -527,9 +529,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Toplam%20Kalite%20Y%C3%B6netimi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Toplam%20Kalite%20Y%C3%B6netimi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [MŞ](#‍-prof-dr-muhittin-şimşek)
   - 📂 [Ders Klasörü](./3-1/Toplam%20Kalite%20Y%C3%B6netimi)
@@ -539,9 +541,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Staj%201) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Staj%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./3-1/Staj%201)
 
 
@@ -549,9 +551,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Makine%20Elemanlar%C4%B1%201) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Makine%20Elemanlar%C4%B1%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [MŞEN](#‍-dr-öğretim-üyesi-murat-şen)
   - 📂 [Ders Klasörü](./3-1/Makine%20Elemanlar%C4%B1%201)
@@ -561,9 +563,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Is%C4%B1%20Ge%C3%A7i%C5%9Fi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Is%C4%B1%20Ge%C3%A7i%C5%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [AO](#‍-prof-dr-ayhan-onat)
   - 📂 [Ders Klasörü](./3-1/Is%C4%B1%20Ge%C3%A7i%C5%9Fi)
@@ -573,9 +575,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=End%C3%BCstriyel%20Hidrolik%20ve%20Pn%C3%B6matik) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=End%C3%BCstriyel%20Hidrolik%20ve%20Pn%C3%B6matik) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [AF](#‍-doç-dr-ahmet-feyzioğlu)
   - 📂 [Ders Klasörü](./3-1/End%C3%BCstriyel%20Hidrolik%20ve%20Pn%C3%B6matik)
@@ -585,9 +587,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Termodinamik%202) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Termodinamik%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [MA](#‍-prof-dr-mustafa-atmaca), [AO](#‍-prof-dr-ayhan-onat)
   - 📂 [Ders Klasörü](./3-1/Termodinamik%202)
@@ -597,9 +599,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Motorlar) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Motorlar) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [MG](#‍-prof-dr-metin-gümüş), [CS](#‍-prof-dr-cenk-sayın)
   - 📂 [Ders Klasörü](./3-1/Motorlar)
@@ -611,9 +613,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Makine%20Elemanlar%C4%B1%202) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Makine%20Elemanlar%C4%B1%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [BB](#‍-dr-öğretim-üyesi-barkın-bakır)
   - 📂 [Ders Klasörü](./3-2/Makine%20Elemanlar%C4%B1%202)
@@ -623,9 +625,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=End%C3%BCstriyel%20Otomatik%20Kontrol) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=End%C3%BCstriyel%20Otomatik%20Kontrol) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [BD](#‍-dr-öğretim-üyesi-barış-doğan)
   - 📂 [Ders Klasörü](./3-2/End%C3%BCstriyel%20Otomatik%20Kontrol)
@@ -635,9 +637,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Makine%20Dinami%C4%9Fi%20ve%20Mekanizma%20Tekni%C4%9Fi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Makine%20Dinami%C4%9Fi%20ve%20Mekanizma%20Tekni%C4%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [BB](#‍-dr-öğretim-üyesi-barkın-bakır)
   - 📂 [Ders Klasörü](./3-2/Makine%20Dinami%C4%9Fi%20ve%20Mekanizma%20Tekni%C4%9Fi)
@@ -647,9 +649,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Bilgisayar%20Destekli%20%C4%B0malat) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Bilgisayar%20Destekli%20%C4%B0malat) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [BB](#‍-dr-öğretim-üyesi-barkın-bakır), [GA](#‍-dr-öğretim-üyesi-gürcan-atakök)
   - 📂 [Ders Klasörü](./3-2/Bilgisayar%20Destekli%20%C4%B0malat)
@@ -661,9 +663,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%201) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [OAG](#‍-dr-öğretim-üyesi-oya-ayhan-girit)
   - 📂 [Ders Klasörü](./4-1/Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%201)
@@ -673,9 +675,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Staj%202) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Staj%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./4-1/Staj%202)
 
 
@@ -683,9 +685,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0%C5%9F%20Yeri%20E%C4%9Fitimi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0%C5%9F%20Yeri%20E%C4%9Fitimi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [SH](#‍-doç-dr-selim-hartomacıoğlu), [CS](#‍-prof-dr-cenk-sayın), [BB](#‍-dr-öğretim-üyesi-barkın-bakır), [MŞ](#‍-prof-dr-muhittin-şimşek), [MA](#‍-prof-dr-mustafa-atmaca), [YK](#‍-prof-dr-yusuf-kaynak)
   - 📂 [Ders Klasörü](./4-1/%C4%B0%C5%9F%20Yeri%20E%C4%9Fitimi)
@@ -697,9 +699,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%202) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [OAG](#‍-dr-öğretim-üyesi-oya-ayhan-girit)
   - 📂 [Ders Klasörü](./4-2/Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%20Tarihi%202)
@@ -709,9 +711,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0%C5%9F%20Hukuku%20ve%20Eti%C4%9Fi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0%C5%9F%20Hukuku%20ve%20Eti%C4%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [ZBKS](#‍-öğr-gör-zeynep-beyza-kabataş-soyer)
   - 📂 [Ders Klasörü](./4-2/%C4%B0%C5%9F%20Hukuku%20ve%20Eti%C4%9Fi)
@@ -721,9 +723,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=M%C3%BChendislik%20Ekonomisi%20ve%20Uygulamalar%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=M%C3%BChendislik%20Ekonomisi%20ve%20Uygulamalar%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [AF](#‍-doç-dr-ahmet-feyzioğlu)
   - 📂 [Ders Klasörü](./4-2/M%C3%BChendislik%20Ekonomisi%20ve%20Uygulamalar%C4%B1)
@@ -733,9 +735,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Bitirme%20Projesi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Bitirme%20Projesi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [BMM](#‍-dr-öğretim-üyesi-bilçen-mutlu-mitil), [CB](#‍-prof-dr-cihat-boyraz), [ATİ](#‍-prof-dr-ahmet-talat-i̇nan), [İTY](#‍-doç-dr-i̇lker-turgut-yılmaz), [OG](#‍-doç-dr-oğuz-girit), [AE](#‍-doç-dr-ayhan-etyemez), [AF](#‍-doç-dr-ahmet-feyzioğlu), [SH](#‍-doç-dr-selim-hartomacıoğlu), [BB](#‍-dr-öğretim-üyesi-barkın-bakır), [GA](#‍-dr-öğretim-üyesi-gürcan-atakök), [MŞ](#‍-prof-dr-muhittin-şimşek), [MŞEN](#‍-dr-öğretim-üyesi-murat-şen), [SY](#‍-dr-öğretim-üyesi-senai-yalçınkaya), [ET](#‍-öğr-gör-emre-taşcıoğlu), [CS](#‍-prof-dr-cenk-sayın), [MA](#‍-prof-dr-mustafa-atmaca), [MAY](#‍-prof-dr-mustafa-ay), [MG](#‍-prof-dr-metin-gümüş), [AO](#‍-prof-dr-ayhan-onat), [YK](#‍-prof-dr-yusuf-kaynak), [AD](#‍-doç-dr-abdullah-demir)
   - 📂 [Ders Klasörü](./4-2/Bitirme%20Projesi)
@@ -745,9 +747,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C3%9Cretim%20Y%C3%B6netimi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C3%9Cretim%20Y%C3%B6netimi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [AF](#‍-doç-dr-ahmet-feyzioğlu)
   - 📂 [Ders Klasörü](./4-2/%C3%9Cretim%20Y%C3%B6netimi)
@@ -757,9 +759,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Zorunlu
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=End%C3%BCstriyel%20Otomasyon%20ve%20Robotlar) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=End%C3%BCstriyel%20Otomasyon%20ve%20Robotlar) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [HA](#‍-öğr-gör-hasan-aydın)
   - 📂 [Ders Klasörü](./4-2/End%C3%BCstriyel%20Otomasyon%20ve%20Robotlar)
@@ -777,9 +779,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Bilgisayar%20Destekli%20Geometrik%20Modelleme%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Bilgisayar%20Destekli%20Geometrik%20Modelleme%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [GA](#‍-dr-öğretim-üyesi-gürcan-atakök)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bilgisayar%20Destekli%20Geometrik%20Modelleme%20Teknikleri)
@@ -788,9 +790,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Bilgisayar%20Destekli%20Kal%C4%B1p%20Tasar%C4%B1m%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Bilgisayar%20Destekli%20Kal%C4%B1p%20Tasar%C4%B1m%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [OG](#‍-doç-dr-oğuz-girit)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bilgisayar%20Destekli%20Kal%C4%B1p%20Tasar%C4%B1m%C4%B1)
@@ -799,9 +801,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Bilgisayarla%20B%C3%BCt%C3%BCnle%C5%9Fik%20%C4%B0malat%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Bilgisayarla%20B%C3%BCt%C3%BCnle%C5%9Fik%20%C4%B0malat%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2024-2025**: [MŞEN](#‍-dr-öğretim-üyesi-murat-şen)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Bilgisayarla%20B%C3%BCt%C3%BCnle%C5%9Fik%20%C4%B0malat%20Teknikleri)
@@ -810,18 +812,18 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Biyomekani%C4%9Fe%20Giri%C5%9F) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Biyomekani%C4%9Fe%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Biyomekani%C4%9Fe%20Giri%C5%9F)
 
 #### 📘 Çevre Koruma 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C3%87evre%20Koruma) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C3%87evre%20Koruma) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [MKAN](#‍-öğr-gör-dr-muammer-kantarcı)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/%C3%87evre%20Koruma)
@@ -830,9 +832,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Deneysel%20Tasar%C4%B1m) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Deneysel%20Tasar%C4%B1m) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [SDEM](#‍-öğr-gör-dr-süleyman-demir)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Deneysel%20Tasar%C4%B1m)
@@ -841,9 +843,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Do%C4%9Fal%20Gaz%20Teknolojisi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Do%C4%9Fal%20Gaz%20Teknolojisi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [MA](#‍-prof-dr-mustafa-atmaca)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Do%C4%9Fal%20Gaz%20Teknolojisi)
@@ -852,18 +854,18 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=D%C3%B6k%C3%BCm%20Sim%C3%BClasyonu) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=D%C3%B6k%C3%BCm%20Sim%C3%BClasyonu) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/D%C3%B6k%C3%BCm%20Sim%C3%BClasyonu)
 
 #### 📘 Dövme Kalıp Teknikleri 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=D%C3%B6vme%20Kal%C4%B1p%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=D%C3%B6vme%20Kal%C4%B1p%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2020-2021**: [OG](#‍-doç-dr-oğuz-girit)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/D%C3%B6vme%20Kal%C4%B1p%20Teknikleri)
@@ -872,45 +874,45 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Eklemeli%20%C4%B0malat%20Y%C3%B6ntemleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Eklemeli%20%C4%B0malat%20Y%C3%B6ntemleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Eklemeli%20%C4%B0malat%20Y%C3%B6ntemleri)
 
 #### 📘 Eklemeli İmalat Yöntemleri ve Uygulamaları 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Eklemeli%20%C4%B0malat%20Y%C3%B6ntemleri%20ve%20Uygulamalar%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Eklemeli%20%C4%B0malat%20Y%C3%B6ntemleri%20ve%20Uygulamalar%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Eklemeli%20%C4%B0malat%20Y%C3%B6ntemleri%20ve%20Uygulamalar%C4%B1)
 
 #### 📘 Endüstriyel Akustik ve Gürültü 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=End%C3%BCstriyel%20Akustik%20ve%20G%C3%BCr%C3%BClt%C3%BC) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=End%C3%BCstriyel%20Akustik%20ve%20G%C3%BCr%C3%BClt%C3%BC) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/End%C3%BCstriyel%20Akustik%20ve%20G%C3%BCr%C3%BClt%C3%BC)
 
 #### 📘 Endüstriyel Tesislerde Emisyon ve Kirletici Giderim Yöntemleri 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=End%C3%BCstriyel%20Tesislerde%20Emisyon%20ve%20Kirletici%20Giderim%20Y%C3%B6ntemleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=End%C3%BCstriyel%20Tesislerde%20Emisyon%20ve%20Kirletici%20Giderim%20Y%C3%B6ntemleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/End%C3%BCstriyel%20Tesislerde%20Emisyon%20ve%20Kirletici%20Giderim%20Y%C3%B6ntemleri)
 
 #### 📘 Enerji Ekonomisi ve Yönetimi 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Enerji%20Ekonomisi%20ve%20Y%C3%B6netimi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Enerji%20Ekonomisi%20ve%20Y%C3%B6netimi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2022-2023**: [OA](#‍-doç-dr-onur-akar)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Enerji%20Ekonomisi%20ve%20Y%C3%B6netimi)
@@ -919,18 +921,18 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Enerji%20Sistemleri%20ve%20Gaz%20Teknolojileri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Enerji%20Sistemleri%20ve%20Gaz%20Teknolojileri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Enerji%20Sistemleri%20ve%20Gaz%20Teknolojileri)
 
 #### 📘 Enjeksiyon Kalıp Teknikleri 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Enjeksiyon%20Kal%C4%B1p%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Enjeksiyon%20Kal%C4%B1p%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [OG](#‍-doç-dr-oğuz-girit)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Enjeksiyon%20Kal%C4%B1p%20Teknikleri)
@@ -939,9 +941,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Ergonomi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Ergonomi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [AE](#‍-doç-dr-ayhan-etyemez)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Ergonomi)
@@ -950,9 +952,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Gaz%20T%C3%BCrbinleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Gaz%20T%C3%BCrbinleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [MG](#‍-prof-dr-metin-gümüş)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Gaz%20T%C3%BCrbinleri)
@@ -961,9 +963,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Gemi%20Makinalar%C4%B1%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Gemi%20Makinalar%C4%B1%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [MB](#‍-öğr-gör-murat-bakal)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Gemi%20Makinalar%C4%B1%20Teknikleri)
@@ -972,9 +974,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=G%C3%BC%C3%A7%20Aktarma%20ve%20Y%C3%B6n%20Kontrol%20Sistemleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=G%C3%BC%C3%A7%20Aktarma%20ve%20Y%C3%B6n%20Kontrol%20Sistemleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [AD](#‍-doç-dr-abdullah-demir)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/G%C3%BC%C3%A7%20Aktarma%20ve%20Y%C3%B6n%20Kontrol%20Sistemleri)
@@ -983,9 +985,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Havac%C4%B1l%C4%B1kta%20Ak%C4%B1%C5%9Fkan%20Sistemler%20i%C3%A7in%20Say%C4%B1sal%20Y%C3%B6ntemler%20ve%20Modelleme) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Havac%C4%B1l%C4%B1kta%20Ak%C4%B1%C5%9Fkan%20Sistemler%20i%C3%A7in%20Say%C4%B1sal%20Y%C3%B6ntemler%20ve%20Modelleme) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [BB](#‍-dr-öğretim-üyesi-barkın-bakır)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Havac%C4%B1l%C4%B1kta%20Ak%C4%B1%C5%9Fkan%20Sistemler%20i%C3%A7in%20Say%C4%B1sal%20Y%C3%B6ntemler%20ve%20Modelleme)
@@ -994,18 +996,18 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Hesaplamal%C4%B1%20Ak%C4%B1%C5%9Fkanlar%20Dinami%C4%9Fine%20Giri%C5%9F) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Hesaplamal%C4%B1%20Ak%C4%B1%C5%9Fkanlar%20Dinami%C4%9Fine%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Hesaplamal%C4%B1%20Ak%C4%B1%C5%9Fkanlar%20Dinami%C4%9Fine%20Giri%C5%9F)
 
 #### 📘 Hibrit ve Elektrikli Taşıtlar 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Hibrit%20ve%20Elektrikli%20Ta%C5%9F%C4%B1tlar) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Hibrit%20ve%20Elektrikli%20Ta%C5%9F%C4%B1tlar) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [MG](#‍-prof-dr-metin-gümüş)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Hibrit%20ve%20Elektrikli%20Ta%C5%9F%C4%B1tlar)
@@ -1014,27 +1016,27 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Is%C4%B1%20De%C4%9Fi%C5%9Ftiricileri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Is%C4%B1%20De%C4%9Fi%C5%9Ftiricileri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Is%C4%B1%20De%C4%9Fi%C5%9Ftiricileri)
 
 #### 📘 Isı ve Ses Yalıtımı 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Is%C4%B1%20ve%20Ses%20Yal%C4%B1t%C4%B1m%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Is%C4%B1%20ve%20Ses%20Yal%C4%B1t%C4%B1m%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Is%C4%B1%20ve%20Ses%20Yal%C4%B1t%C4%B1m%C4%B1)
 
 #### 📘 Isıtma Havalandırma Teknikleri 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Is%C4%B1tma%20Havaland%C4%B1rma%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Is%C4%B1tma%20Havaland%C4%B1rma%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [AO](#‍-prof-dr-ayhan-onat)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Is%C4%B1tma%20Havaland%C4%B1rma%20Teknikleri)
@@ -1043,9 +1045,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0klimlendirme%20Projesi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0klimlendirme%20Projesi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [AO](#‍-prof-dr-ayhan-onat)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/%C4%B0klimlendirme%20Projesi)
@@ -1054,9 +1056,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0klimlendirme%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0klimlendirme%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [MA](#‍-prof-dr-mustafa-atmaca)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/%C4%B0klimlendirme%20Teknikleri)
@@ -1065,18 +1067,18 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0leri%20Mukavemet) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0leri%20Mukavemet) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/%C4%B0leri%20Mukavemet)
 
 #### 📘 İş Planı ve Ticarileşme 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0%C5%9F%20Plan%C4%B1%20ve%20Ticarile%C5%9Fme) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0%C5%9F%20Plan%C4%B1%20ve%20Ticarile%C5%9Fme) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [AE](#‍-doç-dr-ayhan-etyemez)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/%C4%B0%C5%9F%20Plan%C4%B1%20ve%20Ticarile%C5%9Fme)
@@ -1085,18 +1087,18 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0%C5%9F%20ve%20Enerji%20Makinalar%C4%B1%20Teknolojisi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0%C5%9F%20ve%20Enerji%20Makinalar%C4%B1%20Teknolojisi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/%C4%B0%C5%9F%20ve%20Enerji%20Makinalar%C4%B1%20Teknolojisi)
 
 #### 📘 İş ve Takım Bağlama Kalıp Tasarımı 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0%C5%9F%20ve%20Tak%C4%B1m%20Ba%C4%9Flama%20Kal%C4%B1p%20Tasar%C4%B1m%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0%C5%9F%20ve%20Tak%C4%B1m%20Ba%C4%9Flama%20Kal%C4%B1p%20Tasar%C4%B1m%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [MAY](#‍-prof-dr-mustafa-ay)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/%C4%B0%C5%9F%20ve%20Tak%C4%B1m%20Ba%C4%9Flama%20Kal%C4%B1p%20Tasar%C4%B1m%C4%B1)
@@ -1105,9 +1107,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Kalite%20ve%20Kontrol) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Kalite%20ve%20Kontrol) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [AF](#‍-doç-dr-ahmet-feyzioğlu)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Kalite%20ve%20Kontrol)
@@ -1116,9 +1118,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Kazanlar%20ve%20Yak%C4%B1c%C4%B1lar) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Kazanlar%20ve%20Yak%C4%B1c%C4%B1lar) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [ATİ](#‍-prof-dr-ahmet-talat-i̇nan)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Kazanlar%20ve%20Yak%C4%B1c%C4%B1lar)
@@ -1127,27 +1129,27 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Kaza-Hasar%20Analiz%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Kaza-Hasar%20Analiz%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Kaza-Hasar%20Analiz%20Teknikleri)
 
 #### 📘 Makine Öğrenmesi ve Mühendislik Uygulamaları 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Makine%20%C3%96%C4%9Frenmesi%20ve%20M%C3%BChendislik%20Uygulamalar%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Makine%20%C3%96%C4%9Frenmesi%20ve%20M%C3%BChendislik%20Uygulamalar%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Makine%20%C3%96%C4%9Frenmesi%20ve%20M%C3%BChendislik%20Uygulamalar%C4%B1)
 
 #### 📘 Makine Tasarım Uygulamaları 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Makine%20Tasar%C4%B1m%20Uygulamalar%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Makine%20Tasar%C4%B1m%20Uygulamalar%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [MŞEN](#‍-dr-öğretim-üyesi-murat-şen)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Makine%20Tasar%C4%B1m%20Uygulamalar%C4%B1)
@@ -1156,18 +1158,18 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Malzeme%20Muayene%20ve%20Is%C4%B1l%20%C4%B0%C5%9Flemler) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Malzeme%20Muayene%20ve%20Is%C4%B1l%20%C4%B0%C5%9Flemler) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Malzeme%20Muayene%20ve%20Is%C4%B1l%20%C4%B0%C5%9Flemler)
 
 #### 📘 Malzemelerin Mekanik Davranışı 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Malzemelerin%20Mekanik%20Davran%C4%B1%C5%9F%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Malzemelerin%20Mekanik%20Davran%C4%B1%C5%9F%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [YK](#‍-prof-dr-yusuf-kaynak)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Malzemelerin%20Mekanik%20Davran%C4%B1%C5%9F%C4%B1)
@@ -1176,9 +1178,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Mekanik%20Tesisat%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Mekanik%20Tesisat%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [MA](#‍-prof-dr-mustafa-atmaca)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Mekanik%20Tesisat%20Teknikleri)
@@ -1187,18 +1189,18 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Mikro%20ve%20Nano%20%C4%B0malat) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Mikro%20ve%20Nano%20%C4%B0malat) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Mikro%20ve%20Nano%20%C4%B0malat)
 
 #### 📘 Modern İmalat Teknikleri ve Yaklaşımları 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Modern%20%C4%B0malat%20Teknikleri%20ve%20Yakla%C5%9F%C4%B1mlar%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Modern%20%C4%B0malat%20Teknikleri%20ve%20Yakla%C5%9F%C4%B1mlar%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [SY](#‍-dr-öğretim-üyesi-senai-yalçınkaya)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Modern%20%C4%B0malat%20Teknikleri%20ve%20Yakla%C5%9F%C4%B1mlar%C4%B1)
@@ -1207,9 +1209,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Motor%20ve%20Ta%C5%9F%C4%B1t%20Performans%20Test%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Motor%20ve%20Ta%C5%9F%C4%B1t%20Performans%20Test%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [İTY](#‍-doç-dr-i̇lker-turgut-yılmaz)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Motor%20ve%20Ta%C5%9F%C4%B1t%20Performans%20Test%20Teknikleri)
@@ -1218,18 +1220,18 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=M%C3%BChendislik%20%C4%B0statisti%C4%9Fi%20ve%20G%C3%BCvenilirlik) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=M%C3%BChendislik%20%C4%B0statisti%C4%9Fi%20ve%20G%C3%BCvenilirlik) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/M%C3%BChendislik%20%C4%B0statisti%C4%9Fi%20ve%20G%C3%BCvenilirlik)
 
 #### 📘 Mühendislik Malzemeleri 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=M%C3%BChendislik%20Malzemeleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=M%C3%BChendislik%20Malzemeleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [OG](#‍-doç-dr-oğuz-girit)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/M%C3%BChendislik%20Malzemeleri)
@@ -1238,18 +1240,18 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Nano%20Teknoloji%20ve%20Uygulamalar%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Nano%20Teknoloji%20ve%20Uygulamalar%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Nano%20Teknoloji%20ve%20Uygulamalar%C4%B1)
 
 #### 📘 Otomotiv Elektrik ve Elektroniği 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Otomotiv%20Elektrik%20ve%20Elektroni%C4%9Fi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Otomotiv%20Elektrik%20ve%20Elektroni%C4%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [İTY](#‍-doç-dr-i̇lker-turgut-yılmaz)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Otomotiv%20Elektrik%20ve%20Elektroni%C4%9Fi)
@@ -1258,9 +1260,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Otomotiv%20%C4%B0malat%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Otomotiv%20%C4%B0malat%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [SY](#‍-dr-öğretim-üyesi-senai-yalçınkaya)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Otomotiv%20%C4%B0malat%20Teknikleri)
@@ -1269,9 +1271,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Otomotiv%20Mekatroni%C4%9Fi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Otomotiv%20Mekatroni%C4%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [İTY](#‍-doç-dr-i̇lker-turgut-yılmaz)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Otomotiv%20Mekatroni%C4%9Fi)
@@ -1280,9 +1282,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Plastik%20%C5%9Eekil%20Verme%20Teorileri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Plastik%20%C5%9Eekil%20Verme%20Teorileri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [YK](#‍-prof-dr-yusuf-kaynak)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Plastik%20%C5%9Eekil%20Verme%20Teorileri)
@@ -1291,9 +1293,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Pompalar%20ve%20Kompres%C3%B6rler) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Pompalar%20ve%20Kompres%C3%B6rler) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2024-2025**: [ATİ](#‍-prof-dr-ahmet-talat-i̇nan)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Pompalar%20ve%20Kompres%C3%B6rler)
@@ -1302,9 +1304,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Servis%20%C4%B0%C5%9Fletmecili%C4%9Fi%20ve%20M%C3%BC%C5%9Fteri%20%C4%B0li%C5%9Fkileri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Servis%20%C4%B0%C5%9Fletmecili%C4%9Fi%20ve%20M%C3%BC%C5%9Fteri%20%C4%B0li%C5%9Fkileri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [AD](#‍-doç-dr-abdullah-demir)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Servis%20%C4%B0%C5%9Fletmecili%C4%9Fi%20ve%20M%C3%BC%C5%9Fteri%20%C4%B0li%C5%9Fkileri)
@@ -1313,9 +1315,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=So%C4%9Futma%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=So%C4%9Futma%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [AO](#‍-prof-dr-ayhan-onat)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/So%C4%9Futma%20Teknikleri)
@@ -1324,9 +1326,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Sonlu%20Elemanlar%20Y%C3%B6ntemleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Sonlu%20Elemanlar%20Y%C3%B6ntemleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [SDEM](#‍-öğr-gör-dr-süleyman-demir)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Sonlu%20Elemanlar%20Y%C3%B6ntemleri)
@@ -1335,18 +1337,18 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=S%C3%BCrd%C3%BCr%C3%BClebilir%20Kalk%C4%B1nma%20ve%20Enerji%20Sistemleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=S%C3%BCrd%C3%BCr%C3%BClebilir%20Kalk%C4%B1nma%20ve%20Enerji%20Sistemleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/S%C3%BCrd%C3%BCr%C3%BClebilir%20Kalk%C4%B1nma%20ve%20Enerji%20Sistemleri)
 
 #### 📘 Talaşlı İmalat Mekaniği ve Kesme Teorileri 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Tala%C5%9Fl%C4%B1%20%C4%B0malat%20Mekani%C4%9Fi%20ve%20Kesme%20Teorileri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Tala%C5%9Fl%C4%B1%20%C4%B0malat%20Mekani%C4%9Fi%20ve%20Kesme%20Teorileri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [ET](#‍-öğr-gör-emre-taşcıoğlu)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Tala%C5%9Fl%C4%B1%20%C4%B0malat%20Mekani%C4%9Fi%20ve%20Kesme%20Teorileri)
@@ -1355,9 +1357,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Tala%C5%9Fl%C4%B1%20%C4%B0malat%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Tala%C5%9Fl%C4%B1%20%C4%B0malat%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [MAY](#‍-prof-dr-mustafa-ay)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Tala%C5%9Fl%C4%B1%20%C4%B0malat%20Teknikleri)
@@ -1366,9 +1368,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Tala%C5%9Fl%C4%B1%20%C4%B0malatta%20Deneysel%20Y%C3%B6ntemler) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Tala%C5%9Fl%C4%B1%20%C4%B0malatta%20Deneysel%20Y%C3%B6ntemler) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [SY](#‍-dr-öğretim-üyesi-senai-yalçınkaya)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Tala%C5%9Fl%C4%B1%20%C4%B0malatta%20Deneysel%20Y%C3%B6ntemler)
@@ -1377,9 +1379,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Tasar%C4%B1%20Geometri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Tasar%C4%B1%20Geometri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [BB](#‍-dr-öğretim-üyesi-barkın-bakır)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Tasar%C4%B1%20Geometri)
@@ -1388,9 +1390,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Ta%C5%9F%C4%B1t%20Aerodinami%C4%9Fi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Ta%C5%9F%C4%B1t%20Aerodinami%C4%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [CS](#‍-prof-dr-cenk-sayın)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Ta%C5%9F%C4%B1t%20Aerodinami%C4%9Fi)
@@ -1399,9 +1401,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Ta%C5%9F%C4%B1t%20Emisyonlar%C4%B1%20ve%20Kontrol%C3%BC) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Ta%C5%9F%C4%B1t%20Emisyonlar%C4%B1%20ve%20Kontrol%C3%BC) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [CS](#‍-prof-dr-cenk-sayın)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Ta%C5%9F%C4%B1t%20Emisyonlar%C4%B1%20ve%20Kontrol%C3%BC)
@@ -1410,9 +1412,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Ta%C5%9F%C4%B1t%20Teknolojisi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Ta%C5%9F%C4%B1t%20Teknolojisi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [CS](#‍-prof-dr-cenk-sayın)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Ta%C5%9F%C4%B1t%20Teknolojisi)
@@ -1421,9 +1423,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Tedarik%20Zinciri%20Planlama%20ve%20Optimizasyon%20Teknolojileri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Tedarik%20Zinciri%20Planlama%20ve%20Optimizasyon%20Teknolojileri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2023-2024**: [MŞEN](#‍-dr-öğretim-üyesi-murat-şen)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Tedarik%20Zinciri%20Planlama%20ve%20Optimizasyon%20Teknolojileri)
@@ -1432,9 +1434,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Teknoloji%20ve%20Ar-Ge%20Y%C3%B6netimi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Teknoloji%20ve%20Ar-Ge%20Y%C3%B6netimi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [AD](#‍-doç-dr-abdullah-demir)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Teknoloji%20ve%20Ar-Ge%20Y%C3%B6netimi)
@@ -1443,9 +1445,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Transport%20Tekni%C4%9Fi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Transport%20Tekni%C4%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2022-2023**: [OG](#‍-doç-dr-oğuz-girit)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Transport%20Tekni%C4%9Fi)
@@ -1454,9 +1456,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Yak%C4%B1tlar%20ve%20Yanma) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Yak%C4%B1tlar%20ve%20Yanma) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2026-2027**: [İTY](#‍-doç-dr-i̇lker-turgut-yılmaz)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Yak%C4%B1tlar%20ve%20Yanma)
@@ -1465,9 +1467,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Yapay%20Zeka%20ve%20Makine%20%C3%96%C4%9Frenimi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Yapay%20Zeka%20ve%20Makine%20%C3%96%C4%9Frenimi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2024-2025**: [MŞEN](#‍-dr-öğretim-üyesi-murat-şen)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Yapay%20Zeka%20ve%20Makine%20%C3%96%C4%9Frenimi)
@@ -1476,9 +1478,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Yeni%20%C3%9Cr%C3%BCn%20Geli%C5%9Ftirme) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Yeni%20%C3%9Cr%C3%BCn%20Geli%C5%9Ftirme) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2024-2025**: [SH](#‍-doç-dr-selim-hartomacıoğlu)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Yeni%20%C3%9Cr%C3%BCn%20Geli%C5%9Ftirme)
@@ -1487,9 +1489,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Yenilenebilir%20Enerji%20Kaynaklar%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Yenilenebilir%20Enerji%20Kaynaklar%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [ATİ](#‍-prof-dr-ahmet-talat-i̇nan)
   - 📂 [Ders Klasörü](./Mesleki%20Se%C3%A7meli/Yenilenebilir%20Enerji%20Kaynaklar%C4%B1)
@@ -1500,9 +1502,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Bilim%20Tarihi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Bilim%20Tarihi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [MG](#‍-prof-dr-metin-gümüş)
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Bilim%20Tarihi)
@@ -1511,9 +1513,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C3%87evre%20ve%20Enerji) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C3%87evre%20ve%20Enerji) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2022-2023**: [ATİ](#‍-prof-dr-ahmet-talat-i̇nan)
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/%C3%87evre%20ve%20Enerji)
@@ -1522,18 +1524,18 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Fizibilite%20Haz%C4%B1rlama%20ve%20Uygulamalar%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Fizibilite%20Haz%C4%B1rlama%20ve%20Uygulamalar%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Fizibilite%20Haz%C4%B1rlama%20ve%20Uygulamalar%C4%B1)
 
 #### 📘 Girişimcilik 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Giri%C5%9Fimcilik) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Giri%C5%9Fimcilik) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [NB](#‍-öğr-gör-neslihan-bayraktar)
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Giri%C5%9Fimcilik)
@@ -1542,27 +1544,27 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Giri%C5%9Fimcilik%20ve%20%C4%B0novasyon) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Giri%C5%9Fimcilik%20ve%20%C4%B0novasyon) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Giri%C5%9Fimcilik%20ve%20%C4%B0novasyon)
 
 #### 📘 İş Psikolojisi 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0%C5%9F%20Psikolojisi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0%C5%9F%20Psikolojisi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/%C4%B0%C5%9F%20Psikolojisi)
 
 #### 📘 Kalite Yönetimi 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Kalite%20Y%C3%B6netimi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Kalite%20Y%C3%B6netimi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [MŞ](#‍-prof-dr-muhittin-şimşek)
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Kalite%20Y%C3%B6netimi)
@@ -1571,9 +1573,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Liderlik) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Liderlik) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2024-2025**: [AF](#‍-doç-dr-ahmet-feyzioğlu)
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Liderlik)
@@ -1582,18 +1584,18 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Moda) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Moda) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Moda)
 
 #### 📘 Osmanlı Tarihi 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Osmanl%C4%B1%20Tarihi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Osmanl%C4%B1%20Tarihi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2022-2023**: [AD](#‍-doç-dr-abdullah-demir)
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Osmanl%C4%B1%20Tarihi)
@@ -1602,9 +1604,9 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Rapor%20Haz%C4%B1rlama%20ve%20Sunum%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Rapor%20Haz%C4%B1rlama%20ve%20Sunum%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2025-2026**: [AE](#‍-doç-dr-ayhan-etyemez)
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Rapor%20Haz%C4%B1rlama%20ve%20Sunum%20Teknikleri)
@@ -1613,45 +1615,45 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Sistem%20M%C3%BChendisli%C4%9Fi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Sistem%20M%C3%BChendisli%C4%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Sistem%20M%C3%BChendisli%C4%9Fi)
 
 #### 📘 Sosyal Organizasyon 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Sosyal%20Organizasyon) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Sosyal%20Organizasyon) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Sosyal%20Organizasyon)
 
 #### 📘 Teknik İletişim 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Teknik%20%C4%B0leti%C5%9Fim) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Teknik%20%C4%B0leti%C5%9Fim) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Teknik%20%C4%B0leti%C5%9Fim)
 
 #### 📘 Teknik Satış ve Pazarlama 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Teknik%20Sat%C4%B1%C5%9F%20ve%20Pazarlama) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Teknik%20Sat%C4%B1%C5%9F%20ve%20Pazarlama) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Teknik%20Sat%C4%B1%C5%9F%20ve%20Pazarlama)
 
 #### 📘 Teknoloji Yönetimi 
   - 🏷️ **Ders Tipi:** Seçmeli
   - 🏷️ **Müfredat:** Her İki Müfredat
   - ⭐ **Yıldız Sayıları:**
-      - ℹ️ Henüz yıldız veren yok.
+      - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Teknoloji%20Y%C3%B6netimi) anonim şekilde oylamaya katılabilirsiniz.
   - 💬 **Öğrenci Görüşleri:**
-      - ℹ️ Henüz yorum yok.
+      - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Teknoloji%20Y%C3%B6netimi) anonim şekilde görüşlerinizi belirtebilirsiniz.
   - 👨‍🏫 👩‍🏫 **Dersi Yürüten Akademisyenler:**
     - **2021-2022**: [MŞ](#‍-prof-dr-muhittin-şimşek)
   - 📂 [Ders Klasörü](./%C3%9Cniversite%20Se%C3%A7meli/Teknoloji%20Y%C3%B6netimi)
@@ -1677,7 +1679,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Ahmet%20Talat%20%C4%B0nan) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Bitirme Projesi](#-bitirme-projesi) (2020-2021 → 2025-2026)
   - 📖 [Kazanlar ve Yakıcılar](#-kazanlar-ve-yakıcılar) (2020-2021 → 2025-2026)
@@ -1690,7 +1692,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Ayhan%20Onat) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Isı Geçişi](#-isı-geçişi) (2023-2024 → 2026-2027)
   - 📖 [Termodinamik 2](#-termodinamik-2) (2020-2021 → 2026-2027)
@@ -1706,7 +1708,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Cenk%20Say%C4%B1n) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Motorlar](#-motorlar) (2020-2021 → 2026-2027)
   - 📖 [İş Yeri Eğitimi](#-i̇ş-yeri-eğitimi) (2026-2027)
@@ -1719,7 +1721,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Cihat%20Boyraz) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Fizik 1](#-fizik-1) (2020-2021 → 2026-2027)
   - 📖 [Matematik 1](#-matematik-1) (2020-2021 → 2026-2027)
@@ -1733,7 +1735,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Metin%20G%C3%BCm%C3%BC%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Makine Mühendisliğine Giriş](#-makine-mühendisliğine-giriş) (2022-2023 → 2026-2027)
   - 📖 [Motorlar](#-motorlar) (2022-2023 → 2026-2027)
@@ -1747,7 +1749,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Muhittin%20%C5%9Eim%C5%9Fek) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Toplam Kalite Yönetimi](#-toplam-kalite-yönetimi) (2020-2021 → 2026-2027)
   - 📖 [İş Yeri Eğitimi](#-i̇ş-yeri-eğitimi) (2026-2027)
@@ -1759,7 +1761,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Mustafa%20Atmaca) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Akışkanlar Mekaniği](#-akışkanlar-mekaniği) (2020-2021 → 2026-2027)
   - 📖 [Termodinamik 2](#-termodinamik-2) (2021-2022 → 2026-2027)
@@ -1774,7 +1776,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Mustafa%20Ay) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Talaşlı İmalat Teknikleri](#-talaşlı-i̇malat-teknikleri) (2020-2021 → 2021-2022, 2024-2025 → 2026-2027)
   - 📖 [İmal Usulleri](#-i̇mal-usulleri) (2020-2021 → 2025-2026)
@@ -1787,7 +1789,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Yusuf%20Kaynak) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İş Yeri Eğitimi](#-i̇ş-yeri-eğitimi) (2026-2027)
   - 📖 [Plastik Şekil Verme Teorileri](#-plastik-şekil-verme-teorileri) (2025-2026 → 2026-2027)
@@ -1803,7 +1805,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20Abdullah%20Demir) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İş Sağlığı ve Güvenliği](#-i̇ş-sağlığı-ve-güvenliği) (2021-2022 → 2026-2027)
   - 📖 [Güç Aktarma ve Yön Kontrol Sistemleri](#-güç-aktarma-ve-yön-kontrol-sistemleri) (2020-2021 → 2026-2027)
@@ -1818,7 +1820,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20Ahmet%20Feyzio%C4%9Flu) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Endüstriyel Hidrolik ve Pnömatik](#-endüstriyel-hidrolik-ve-pnömatik) (2020-2021 → 2023-2024, 2025-2026 → 2026-2027)
   - 📖 [Mühendislik Ekonomisi ve Uygulamaları](#-mühendislik-ekonomisi-ve-uygulamaları) (2021-2022 → 2025-2026)
@@ -1834,7 +1836,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20Ayhan%20Etyemez) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Teknik İngilizce](#-teknik-i̇ngilizce) (2023-2024 → 2026-2027)
   - 📖 [Ergonomi](#-ergonomi) (2026-2027)
@@ -1848,7 +1850,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20%C4%B0lker%20Turgut%20Y%C4%B1lmaz) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Motor ve Taşıt Performans Test Teknikleri](#-motor-ve-taşıt-performans-test-teknikleri) (2020-2021 → 2026-2027)
   - 📖 [Yakıtlar ve Yanma](#-yakıtlar-ve-yanma) (2020-2021 → 2026-2027)
@@ -1862,7 +1864,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20O%C4%9Fuz%20Girit) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Mühendislik Malzemeleri](#-mühendislik-malzemeleri) (2020-2021 → 2026-2027)
   - 📖 [İş Yeri Eğitimi](#-i̇ş-yeri-eğitimi) (2025-2026)
@@ -1876,7 +1878,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20Selim%20Hartomac%C4%B1o%C4%9Flu) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Bilgisayar Destekli Meslek Resmi](#-bilgisayar-destekli-meslek-resmi) (2022-2023 → 2026-2027)
   - 📖 [İş Yeri Eğitimi](#-i̇ş-yeri-eğitimi) (2026-2027)
@@ -1898,7 +1900,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Bar%C4%B1%C5%9F%20Do%C4%9Fan) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Endüstriyel Otomatik Kontrol](#-endüstriyel-otomatik-kontrol) (2020-2021 → 2025-2026)
 
@@ -1906,7 +1908,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Bark%C4%B1n%20Bak%C4%B1r) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Diferansiyel Denklemler](#-diferansiyel-denklemler) (2020-2021 → 2026-2027)
   - 📖 [İş Yeri Eğitimi](#-i̇ş-yeri-eğitimi) (2020-2021 → 2026-2027)
@@ -1921,7 +1923,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Bil%C3%A7en%20Mutlu%20Mitil) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Statik](#-statik) (2020-2021 → 2025-2026)
   - 📖 [Mukavemet](#-mukavemet) (2020-2021 → 2025-2026)
@@ -1935,7 +1937,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20G%C3%BCrcan%20Atak%C3%B6k) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Temel Bilgi Teknolojisi Kullanımı](#-temel-bilgi-teknolojisi-kullanımı) (2020-2021 → 2026-2027)
   - 📖 [Bilgisayar Destekli Geometrik Modelleme Teknikleri](#-bilgisayar-destekli-geometrik-modelleme-teknikleri) (2020-2021 → 2026-2027)
@@ -1948,7 +1950,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Murat%20%C5%9Een) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Dinamik](#-dinamik) (2023-2024 → 2026-2027)
   - 📖 [Makine Elemanları 1](#-makine-elemanları-1) (2026-2027)
@@ -1962,7 +1964,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Senai%20Yal%C3%A7%C4%B1nkaya) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Otomotiv İmalat Teknikleri](#-otomotiv-i̇malat-teknikleri) (2020-2021 → 2026-2027)
   - 📖 [Talaşlı İmalatta Deneysel Yöntemler](#-talaşlı-i̇malatta-deneysel-yöntemler) (2020-2021 → 2026-2027)
@@ -1979,7 +1981,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Emre%20Ta%C5%9Fc%C4%B1o%C4%9Flu) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Talaşlı İmalat Mekaniği ve Kesme Teorileri](#-talaşlı-i̇malat-mekaniği-ve-kesme-teorileri) (2026-2027)
   - 📖 [Bitirme Projesi](#-bitirme-projesi) (2025-2026)
@@ -1989,7 +1991,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Hasan%20Ayd%C4%B1n) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Endüstriyel Otomasyon ve Robotlar](#-endüstriyel-otomasyon-ve-robotlar) (2020-2021 → 2025-2026)
   - 📖 [Endüstriyel Hidrolik ve Pnömatik](#-endüstriyel-hidrolik-ve-pnömatik) (2024-2025)
@@ -1998,7 +2000,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Dr.%20Muammer%20Kantarc%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Çevre Koruma](#-çevre-koruma) (2026-2027)
 
@@ -2006,7 +2008,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Murat%20Bakal) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Gemi Makinaları Teknikleri](#-gemi-makinaları-teknikleri) (2020-2021 → 2026-2027)
 
@@ -2014,7 +2016,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Dr.%20S%C3%BCleyman%20Demir) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Deneysel Tasarım](#-deneysel-tasarım) (2024-2025 → 2025-2026)
   - 📖 [Sonlu Elemanlar Yöntemleri](#-sonlu-elemanlar-yöntemleri) (2024-2025 → 2025-2026)
@@ -2026,7 +2028,7 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Ar%C5%9F.%20G%C3%B6r.%20Dr.%20Mustafa%20Varg%C3%BCn) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İş Yeri Eğitimi](#-i̇ş-yeri-eğitimi) (2025-2026)
 
@@ -2039,7 +2041,7 @@ Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) vere
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Dr.%20I%C5%9F%C4%B1l%20Ruacan%20Silahtaro%C4%9Flu) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İngilizce 1](#-i̇ngilizce-1) (2025-2026 → 2026-2027)
   - 📖 [İngilizce 2](#-i̇ngilizce-2) (2025-2026)
@@ -2048,7 +2050,7 @@ Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) vere
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20%C4%B0lyas%20Kartal) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Malzeme Bilimi ve Mühendisliği](#-malzeme-bilimi-ve-mühendisliği) (2025-2026)
 
@@ -2056,7 +2058,7 @@ Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) vere
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Dr.%20Mehmet%20Kocakaplan) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Türk Dili 1](#-türk-dili-1) (2024-2025 → 2026-2027)
   - 📖 [Türk Dili 2](#-türk-dili-2) (2024-2025 → 2025-2026)
@@ -2065,7 +2067,7 @@ Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) vere
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Neslihan%20Bayraktar) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Girişimcilik](#-girişimcilik) (2025-2026)
 
@@ -2073,7 +2075,7 @@ Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) vere
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Oya%20Ayhan%20Girit) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Atatürk İlkeleri ve İnkılap Tarihi 1](#-atatürk-i̇lkeleri-ve-i̇nkılap-tarihi-1) (2020-2021 → 2026-2027)
   - 📖 [Atatürk İlkeleri ve İnkılap Tarihi 2](#-atatürk-i̇lkeleri-ve-i̇nkılap-tarihi-2) (2020-2021 → 2025-2026)
@@ -2082,7 +2084,7 @@ Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) vere
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20Sabahattin%20Deniz) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Kimya](#-kimya) (2020-2021 → 2025-2026)
 
@@ -2090,7 +2092,7 @@ Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) vere
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20%C3%9Cmit%20Kemalettin%20Terzi) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Elektrik ve Elektroniğin Temelleri](#-elektrik-ve-elektroniğin-temelleri) (2025-2026)
 
@@ -2098,7 +2100,7 @@ Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) vere
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Yahya%20Bozkurt) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İş Sağlığı ve Güvenliği 1](#-i̇ş-sağlığı-ve-güvenliği-1) (2026-2027)
 
@@ -2106,7 +2108,7 @@ Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) vere
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Zeynel%20%C5%9Eahin) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Kimya](#-kimya) (2026-2027)
 
@@ -2114,7 +2116,7 @@ Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) vere
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Zeynep%20Beyza%20Kabata%C5%9F%20Soyer) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İş Hukuku ve Etiği](#-i̇ş-hukuku-ve-etiği) (2023-2024 → 2025-2026)
 
@@ -2127,7 +2129,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Abdullah%20Mert%20Pekel) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İngilizce 1](#-i̇ngilizce-1) (2020-2021 → 2021-2022)
   - 📖 [İngilizce 2](#-i̇ngilizce-2) (2020-2021 → 2021-2022)
@@ -2136,7 +2138,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Aysu%20%C3%96zt%C3%BCrk) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İngilizce 1](#-i̇ngilizce-1) (2022-2023, 2024-2025)
 
@@ -2144,7 +2146,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20Buket%20Do%C4%9Fan) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Temel Bilgi Teknolojisi Kullanımı](#-temel-bilgi-teknolojisi-kullanımı) (2020-2021)
 
@@ -2152,7 +2154,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20Erkan%20Dursun) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Elektrik ve Elektroniğin Temelleri](#-elektrik-ve-elektroniğin-temelleri) (2020-2021 → 2021-2022)
 
@@ -2160,7 +2162,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Ar%C5%9F.%20G%C3%B6r.%20Dr.%20Esin%20Bozkurt%20Kopuz) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Sayısal Analiz](#-sayısal-analiz) (2020-2021 → 2021-2022)
 
@@ -2168,7 +2170,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Faruk%20Ayd%C4%B1n) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Elektrik ve Elektroniğin Temelleri](#-elektrik-ve-elektroniğin-temelleri) (2021-2022 → 2024-2025)
 
@@ -2176,7 +2178,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Ferhat%20G%C3%BCng%C3%B6r) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Bitirme Projesi](#-bitirme-projesi) (2020-2021 → 2021-2022)
   - 📖 [Üretim Yönetimi](#-üretim-yönetimi) (2020-2021 → 2021-2022)
@@ -2186,7 +2188,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Dr.%20%C4%B0rem%20Konca) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İngilizce 1](#-i̇ngilizce-1) (2023-2024)
   - 📖 [İngilizce 2](#-i̇ngilizce-2) (2023-2024)
@@ -2195,7 +2197,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Mahmut%20%C3%87elik) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İş Hukuku ve Etiği](#-i̇ş-hukuku-ve-etiği) (2020-2021)
 
@@ -2203,7 +2205,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Dr.%20Mehmet%20Vehbi%20B%C3%BCker) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Türk Dili 1](#-türk-dili-1) (2023-2024)
   - 📖 [Türk Dili 2](#-türk-dili-2) (2023-2024)
@@ -2212,7 +2214,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Merve%20Uysal) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İş Hukuku ve Etiği](#-i̇ş-hukuku-ve-etiği) (2022-2023)
 
@@ -2220,7 +2222,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Mustafa%20Kemal%20Bilici) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Teknik Resim](#-teknik-resim) (2020-2021 → 2022-2023)
   - 📖 [Bilgisayar Destekli Meslek Resmi](#-bilgisayar-destekli-meslek-resmi) (2021-2022)
@@ -2229,7 +2231,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Mustafa%20Osman%20Is%C4%B1kan) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Makine Mühendisliğine Giriş](#-makine-mühendisliğine-giriş) (2020-2021 → 2022-2023)
   - 📖 [Teknik İngilizce](#-teknik-i̇ngilizce) (2020-2021 → 2022-2023)
@@ -2240,7 +2242,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Dr.%20Nurg%C3%BCl%20Y%C4%B1ld%C4%B1z) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Türk Dili 1](#-türk-dili-1) (2020-2021 → 2021-2022)
   - 📖 [Türk Dili 2](#-türk-dili-2) (2020-2021 → 2021-2022)
@@ -2249,7 +2251,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20Onur%20Akar) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Enerji Ekonomisi ve Yönetimi](#-enerji-ekonomisi-ve-yönetimi) (2022-2023)
 
@@ -2257,7 +2259,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20%C3%96zge%20Akay%20Sefer) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Rapor Hazırlama ve Sunum Teknikleri](#-rapor-hazırlama-ve-sunum-teknikleri) (2021-2022)
 
@@ -2265,7 +2267,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Sanem%20Soner) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İngilizce 2](#-i̇ngilizce-2) (2022-2023, 2024-2025)
 
@@ -2273,7 +2275,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Se%C3%A7il%20Varbak%20Ne%C5%9Fe) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Elektrik ve Elektroniğin Temelleri](#-elektrik-ve-elektroniğin-temelleri) (2020-2021)
 
@@ -2281,7 +2283,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Dr.%20Yasemin%20Bulut) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [Türk Dili 1](#-türk-dili-1) (2022-2023)
   - 📖 [Türk Dili 2](#-türk-dili-2) (2022-2023)
@@ -2290,7 +2292,7 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 - 🚪 **Ofis:** 
 - 🔗 **Araştırma Sayfası:** 
 - 💬 **Öğrenci Görüşleri:**
-  - ℹ️ Henüz yorum yok.
+  - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Zeynep%20Ba%C5%9Fak%20Ergen) anonim şekilde görüşlerinizi belirtebilirsiniz.
 - 📚 **Verdiği Dersler:**
   - 📖 [İş Hukuku ve Etiği](#-i̇ş-hukuku-ve-etiği) (2021-2022)
 

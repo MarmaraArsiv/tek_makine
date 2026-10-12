@@ -12,9 +12,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Temel%20Bilgi%20Teknolojisi%20Kullan%C4%B1m%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Temel%20Bilgi%20Teknolojisi%20Kullan%C4%B1m%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -43,9 +43,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Fizik%201) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Fizik%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -73,9 +73,9 @@
 - 🏷️ **Müfredat:** 2026 Sonrası
     - ℹ️ 2026 öncesi müfredatta tek ders olarak "İş Sağlığı ve Güvenliği" adıyla 1. yarıyılda (1-1) yer alıyor.
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%201) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -90,9 +90,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Kimya) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Kimya) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -119,9 +119,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Makine%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Makine%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -150,9 +150,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Matematik%201) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Matematik%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -179,9 +179,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Lineer%20Cebir) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Lineer%20Cebir) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -208,9 +208,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=T%C3%BCrk%20Dili%201) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=T%C3%BCrk%20Dili%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -237,9 +237,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0ngilizce%201) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0ngilizce%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -267,9 +267,9 @@
 - 🏷️ **Müfredat:** 2026 Öncesi
     - ℹ️ 2026 sonrası müfredatta yerini "İş Sağlığı ve Güvenliği 1" ve "İş Sağlığı ve Güvenliği 2" almış.
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027** (bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı):

@@ -12,9 +12,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Toplam%20Kalite%20Y%C3%B6netimi) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Toplam%20Kalite%20Y%C3%B6netimi) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -41,9 +41,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Staj%201) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Staj%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ### 📘 Makine Elemanları 1
 
@@ -54,9 +54,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Makine%20Elemanlar%C4%B1%201) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Makine%20Elemanlar%C4%B1%201) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -83,9 +83,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Is%C4%B1%20Ge%C3%A7i%C5%9Fi) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Is%C4%B1%20Ge%C3%A7i%C5%9Fi) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -112,9 +112,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=End%C3%BCstriyel%20Hidrolik%20ve%20Pn%C3%B6matik) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=End%C3%BCstriyel%20Hidrolik%20ve%20Pn%C3%B6matik) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -141,9 +141,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Termodinamik%202) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Termodinamik%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:
@@ -176,9 +176,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Motorlar) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Motorlar) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2026-2027**:

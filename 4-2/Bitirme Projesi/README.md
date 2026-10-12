@@ -5,9 +5,9 @@
 - 🏷️ **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSf-rdCk7HVFSGk0pkV_yy_Qw83oUWjNr6jAYbMoE-yvEWJroQ/viewform?usp=pp_url&entry.2140317461=Bitirme%20Projesi) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScJM4fn94jg3bCgoC3w8CTKN3Y-LeGkqRSHg4VWLofhfcx9uw/viewform?usp=pp_url&entry.819949480=Bitirme%20Projesi) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -138,47 +138,47 @@
 Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
 
 - **[Dr. Öğretim Üyesi Bilçen Mutlu Mitil](../../README.md#‍-dr-öğretim-üyesi-bilçen-mutlu-mitil)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Bil%C3%A7en%20Mutlu%20Mitil) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Prof. Dr. Cihat Boyraz](../../README.md#‍-prof-dr-cihat-boyraz)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Cihat%20Boyraz) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Prof. Dr. Ahmet Talat İnan](../../README.md#‍-prof-dr-ahmet-talat-i̇nan)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Ahmet%20Talat%20%C4%B0nan) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Doç. Dr. İlker Turgut Yılmaz](../../README.md#‍-doç-dr-i̇lker-turgut-yılmaz)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20%C4%B0lker%20Turgut%20Y%C4%B1lmaz) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Doç. Dr. Oğuz Girit](../../README.md#‍-doç-dr-oğuz-girit)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20O%C4%9Fuz%20Girit) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Doç. Dr. Ayhan Etyemez](../../README.md#‍-doç-dr-ayhan-etyemez)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20Ayhan%20Etyemez) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Doç. Dr. Ahmet Feyzioğlu](../../README.md#‍-doç-dr-ahmet-feyzioğlu)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20Ahmet%20Feyzio%C4%9Flu) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Doç. Dr. Selim Hartomacıoğlu](../../README.md#‍-doç-dr-selim-hartomacıoğlu)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20Selim%20Hartomac%C4%B1o%C4%9Flu) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Dr. Öğretim Üyesi Barkın Bakır](../../README.md#‍-dr-öğretim-üyesi-barkın-bakır)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Bark%C4%B1n%20Bak%C4%B1r) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Dr. Öğretim Üyesi Gürcan Atakök](../../README.md#‍-dr-öğretim-üyesi-gürcan-atakök)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20G%C3%BCrcan%20Atak%C3%B6k) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Prof. Dr. Muhittin Şimşek](../../README.md#‍-prof-dr-muhittin-şimşek)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Muhittin%20%C5%9Eim%C5%9Fek) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Dr. Öğretim Üyesi Murat Şen](../../README.md#‍-dr-öğretim-üyesi-murat-şen)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Murat%20%C5%9Een) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Dr. Öğretim Üyesi Senai Yalçınkaya](../../README.md#‍-dr-öğretim-üyesi-senai-yalçınkaya)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Senai%20Yal%C3%A7%C4%B1nkaya) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Öğr. Gör. Emre Taşcıoğlu](../../README.md#‍-öğr-gör-emre-taşcıoğlu)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=%C3%96%C4%9Fr.%20G%C3%B6r.%20Emre%20Ta%C5%9Fc%C4%B1o%C4%9Flu) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Prof. Dr. Cenk Sayın](../../README.md#‍-prof-dr-cenk-sayın)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Cenk%20Say%C4%B1n) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Prof. Dr. Mustafa Atmaca](../../README.md#‍-prof-dr-mustafa-atmaca)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Mustafa%20Atmaca) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Prof. Dr. Mustafa Ay](../../README.md#‍-prof-dr-mustafa-ay)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Mustafa%20Ay) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Prof. Dr. Metin Gümüş](../../README.md#‍-prof-dr-metin-gümüş)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Metin%20G%C3%BCm%C3%BC%C5%9F) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Prof. Dr. Ayhan Onat](../../README.md#‍-prof-dr-ayhan-onat)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Ayhan%20Onat) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Prof. Dr. Yusuf Kaynak](../../README.md#‍-prof-dr-yusuf-kaynak)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Prof.%20Dr.%20Yusuf%20Kaynak) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Doç. Dr. Abdullah Demir](../../README.md#‍-doç-dr-abdullah-demir)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLScyRyZKV8GD4rl-Ukx7DzUiQCzcf8tQWyq5TrxG5bGrzYT5HA/viewform?usp=pp_url&entry.1707882841=Do%C3%A7.%20Dr.%20Abdullah%20Demir) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 
