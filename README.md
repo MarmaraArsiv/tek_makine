@@ -103,17 +103,17 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 ## 📊 Arşiv Doluluk Durumu
 
-Arşivdeki **135** dersin **6** tanesinde en az bir materyal var (genel doluluk **%4**).
+Arşivdeki **135** dersin **7** tanesinde en az bir materyal var (genel doluluk **%5**).
 
 ```mermaid
 pie showData
-  "Materyali olan" : 6
-  "Henüz boş" : 129
+  "Materyali olan" : 7
+  "Henüz boş" : 128
 ```
 
 | Dönem | Doluluk | Materyali olan ders |
 |---|---|---|
-| [1. Yıl Güz](./1-1/) | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ %60 | 6 / 10 |
+| [1. Yıl Güz](./1-1/) | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ %70 | 7 / 10 |
 | [1. Yıl Bahar](./1-2/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 9 |
 | [2. Yıl Güz](./2-1/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 5 |
 | [2. Yıl Bahar](./2-2/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 6 |
@@ -127,7 +127,7 @@ pie showData
 ### 🙋 Bu dersler katkını bekliyor
 Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölümüne göz at.
 
-- **1. Yıl Güz:** İngilizce 1, İş Sağlığı ve Güvenliği 1, Lineer Cebir, Türk Dili 1
+- **1. Yıl Güz:** İngilizce 1, İş Sağlığı ve Güvenliği 1, Türk Dili 1
 - **1. Yıl Bahar:** Fizik 2, İmalat İşlemleri, İngilizce 2, İş Sağlığı ve Güvenliği 2, Malzeme Bilimi ve Mühendisliği, Matematik 2, Statik, Teknik Resim, Türk Dili 2
 - **2. Yıl Güz:** Akışkanlar Mekaniği, Bilgisayar Destekli Meslek Resmi, Diferansiyel Denklemler, Dinamik, Teknik İngilizce
 - **2. Yıl Bahar:** Elektrik ve Elektroniğin Temelleri, İmal Usulleri, Mukavemet, Ölçme Tekniği ve İstatistik, Sayısal Analiz, Termodinamik 1
