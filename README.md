@@ -103,12 +103,12 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 ## 📊 Arşiv Doluluk Durumu
 
-Arşivdeki **135** dersin **19** tanesinde en az bir materyal var (genel doluluk **%14**).
+Arşivdeki **135** dersin **21** tanesinde en az bir materyal var (genel doluluk **%16**).
 
 ```mermaid
 pie showData
-  "Materyali olan" : 19
-  "Henüz boş" : 116
+  "Materyali olan" : 21
+  "Henüz boş" : 114
 ```
 
 | Dönem | Doluluk | Materyali olan ders |
@@ -117,11 +117,11 @@ pie showData
 | [1. Yıl Bahar](./1-2/) | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ %78 | 7 / 9 |
 | [2. Yıl Güz](./2-1/) | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ %60 | 3 / 5 |
 | [2. Yıl Bahar](./2-2/) | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ %17 | 1 / 6 |
-| [3. Yıl Güz](./3-1/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 7 |
+| [3. Yıl Güz](./3-1/) | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ %14 | 1 / 7 |
 | [3. Yıl Bahar](./3-2/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 4 |
 | [4. Yıl Güz](./4-1/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 3 |
 | [4. Yıl Bahar](./4-2/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 6 |
-| [Mesleki Seçmeli](./Mesleki%20Seçmeli/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 69 |
+| [Mesleki Seçmeli](./Mesleki%20Seçmeli/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %1 | 1 / 69 |
 | [Üniversite Seçmeli](./Üniversite%20Seçmeli/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 16 |
 
 ### 🙋 Bu dersler katkını bekliyor
@@ -131,11 +131,11 @@ Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölü
 - **1. Yıl Bahar:** İngilizce 2, İş Sağlığı ve Güvenliği 2
 - **2. Yıl Güz:** Dinamik, Teknik İngilizce
 - **2. Yıl Bahar:** Elektrik ve Elektroniğin Temelleri, İmal Usulleri, Mukavemet, Ölçme Tekniği ve İstatistik, Sayısal Analiz
-- **3. Yıl Güz:** Endüstriyel Hidrolik ve Pnömatik, Isı Geçişi, Makine Elemanları 1, Motorlar, Staj 1, Termodinamik 2, Toplam Kalite Yönetimi
+- **3. Yıl Güz:** Endüstriyel Hidrolik ve Pnömatik, Isı Geçişi, Makine Elemanları 1, Motorlar, Staj 1, Toplam Kalite Yönetimi
 - **3. Yıl Bahar:** Bilgisayar Destekli İmalat, Endüstriyel Otomatik Kontrol, Makine Dinamiği ve Mekanizma Tekniği, Makine Elemanları 2
 - **4. Yıl Güz:** Atatürk İlkeleri ve İnkılap Tarihi 1, İş Yeri Eğitimi, Staj 2
 - **4. Yıl Bahar:** Atatürk İlkeleri ve İnkılap Tarihi 2, Bitirme Projesi, Endüstriyel Otomasyon ve Robotlar, İş Hukuku ve Etiği, Mühendislik Ekonomisi ve Uygulamaları, Üretim Yönetimi
-- **Mesleki Seçmeli:** Bilgisayar Destekli Geometrik Modelleme Teknikleri, Bilgisayar Destekli Kalıp Tasarımı, Bilgisayarla Bütünleşik İmalat Teknikleri, Biyomekaniğe Giriş, Çevre Koruma, Deneysel Tasarım, Doğal Gaz Teknolojisi, Döküm Simülasyonu, Dövme Kalıp Teknikleri, Eklemeli İmalat Yöntemleri, Eklemeli İmalat Yöntemleri ve Uygulamaları, Endüstriyel Akustik ve Gürültü, Endüstriyel Tesislerde Emisyon ve Kirletici Giderim Yöntemleri, Enerji Ekonomisi ve Yönetimi, Enerji Sistemleri ve Gaz Teknolojileri, Enjeksiyon Kalıp Teknikleri, Ergonomi, Gaz Türbinleri, Gemi Makinaları Teknikleri, Güç Aktarma ve Yön Kontrol Sistemleri, Havacılıkta Akışkan Sistemler için Sayısal Yöntemler ve Modelleme, Hesaplamalı Akışkanlar Dinamiğine Giriş, Hibrit ve Elektrikli Taşıtlar, Isı Değiştiricileri, Isı ve Ses Yalıtımı, Isıtma Havalandırma Teknikleri, İklimlendirme Projesi, İklimlendirme Teknikleri, İleri Mukavemet, İş Planı ve Ticarileşme, İş ve Enerji Makinaları Teknolojisi, İş ve Takım Bağlama Kalıp Tasarımı, Kalite ve Kontrol, Kazanlar ve Yakıcılar, Kaza-Hasar Analiz Teknikleri, Makine Öğrenmesi ve Mühendislik Uygulamaları, Makine Tasarım Uygulamaları, Malzeme Muayene ve Isıl İşlemler, Malzemelerin Mekanik Davranışı, Mekanik Tesisat Teknikleri, Mikro ve Nano İmalat, Modern İmalat Teknikleri ve Yaklaşımları, Motor ve Taşıt Performans Test Teknikleri, Mühendislik İstatistiği ve Güvenilirlik, Mühendislik Malzemeleri, Nano Teknoloji ve Uygulamaları, Otomotiv Elektrik ve Elektroniği, Otomotiv İmalat Teknikleri, Otomotiv Mekatroniği, Plastik Şekil Verme Teorileri, Pompalar ve Kompresörler, Servis İşletmeciliği ve Müşteri İlişkileri, Soğutma Teknikleri, Sonlu Elemanlar Yöntemleri, Sürdürülebilir Kalkınma ve Enerji Sistemleri, Talaşlı İmalat Mekaniği ve Kesme Teorileri, Talaşlı İmalat Teknikleri, Talaşlı İmalatta Deneysel Yöntemler, Tasarı Geometri, Taşıt Aerodinamiği, Taşıt Emisyonları ve Kontrolü, Taşıt Teknolojisi, Tedarik Zinciri Planlama ve Optimizasyon Teknolojileri, Teknoloji ve Ar-Ge Yönetimi, Transport Tekniği, Yakıtlar ve Yanma, Yapay Zeka ve Makine Öğrenimi, Yeni Ürün Geliştirme, Yenilenebilir Enerji Kaynakları
+- **Mesleki Seçmeli:** Bilgisayar Destekli Geometrik Modelleme Teknikleri, Bilgisayar Destekli Kalıp Tasarımı, Bilgisayarla Bütünleşik İmalat Teknikleri, Biyomekaniğe Giriş, Çevre Koruma, Deneysel Tasarım, Doğal Gaz Teknolojisi, Döküm Simülasyonu, Dövme Kalıp Teknikleri, Eklemeli İmalat Yöntemleri, Eklemeli İmalat Yöntemleri ve Uygulamaları, Endüstriyel Akustik ve Gürültü, Endüstriyel Tesislerde Emisyon ve Kirletici Giderim Yöntemleri, Enerji Ekonomisi ve Yönetimi, Enerji Sistemleri ve Gaz Teknolojileri, Enjeksiyon Kalıp Teknikleri, Ergonomi, Gaz Türbinleri, Gemi Makinaları Teknikleri, Havacılıkta Akışkan Sistemler için Sayısal Yöntemler ve Modelleme, Hesaplamalı Akışkanlar Dinamiğine Giriş, Hibrit ve Elektrikli Taşıtlar, Isı Değiştiricileri, Isı ve Ses Yalıtımı, Isıtma Havalandırma Teknikleri, İklimlendirme Projesi, İklimlendirme Teknikleri, İleri Mukavemet, İş Planı ve Ticarileşme, İş ve Enerji Makinaları Teknolojisi, İş ve Takım Bağlama Kalıp Tasarımı, Kalite ve Kontrol, Kazanlar ve Yakıcılar, Kaza-Hasar Analiz Teknikleri, Makine Öğrenmesi ve Mühendislik Uygulamaları, Makine Tasarım Uygulamaları, Malzeme Muayene ve Isıl İşlemler, Malzemelerin Mekanik Davranışı, Mekanik Tesisat Teknikleri, Mikro ve Nano İmalat, Modern İmalat Teknikleri ve Yaklaşımları, Motor ve Taşıt Performans Test Teknikleri, Mühendislik İstatistiği ve Güvenilirlik, Mühendislik Malzemeleri, Nano Teknoloji ve Uygulamaları, Otomotiv Elektrik ve Elektroniği, Otomotiv İmalat Teknikleri, Otomotiv Mekatroniği, Plastik Şekil Verme Teorileri, Pompalar ve Kompresörler, Servis İşletmeciliği ve Müşteri İlişkileri, Soğutma Teknikleri, Sonlu Elemanlar Yöntemleri, Sürdürülebilir Kalkınma ve Enerji Sistemleri, Talaşlı İmalat Mekaniği ve Kesme Teorileri, Talaşlı İmalat Teknikleri, Talaşlı İmalatta Deneysel Yöntemler, Tasarı Geometri, Taşıt Aerodinamiği, Taşıt Emisyonları ve Kontrolü, Taşıt Teknolojisi, Tedarik Zinciri Planlama ve Optimizasyon Teknolojileri, Teknoloji ve Ar-Ge Yönetimi, Transport Tekniği, Yakıtlar ve Yanma, Yapay Zeka ve Makine Öğrenimi, Yeni Ürün Geliştirme, Yenilenebilir Enerji Kaynakları
 - **Üniversite Seçmeli:** Bilim Tarihi, Çevre ve Enerji, Fizibilite Hazırlama ve Uygulamaları, Girişimcilik, Girişimcilik ve İnovasyon, İş Psikolojisi, Kalite Yönetimi, Liderlik, Moda, Osmanlı Tarihi, Rapor Hazırlama ve Sunum Teknikleri, Sistem Mühendisliği, Sosyal Organizasyon, Teknik İletişim, Teknik Satış ve Pazarlama, Teknoloji Yönetimi
 
 </details>
