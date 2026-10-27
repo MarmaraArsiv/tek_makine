@@ -103,20 +103,20 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 ## 📊 Arşiv Doluluk Durumu
 
-Arşivdeki **135** dersin **7** tanesinde en az bir materyal var (genel doluluk **%5**).
+Arşivdeki **135** dersin **19** tanesinde en az bir materyal var (genel doluluk **%14**).
 
 ```mermaid
 pie showData
-  "Materyali olan" : 7
-  "Henüz boş" : 128
+  "Materyali olan" : 19
+  "Henüz boş" : 116
 ```
 
 | Dönem | Doluluk | Materyali olan ders |
 |---|---|---|
-| [1. Yıl Güz](./1-1/) | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ %70 | 7 / 10 |
-| [1. Yıl Bahar](./1-2/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 9 |
-| [2. Yıl Güz](./2-1/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 5 |
-| [2. Yıl Bahar](./2-2/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 6 |
+| [1. Yıl Güz](./1-1/) | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ %80 | 8 / 10 |
+| [1. Yıl Bahar](./1-2/) | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ %78 | 7 / 9 |
+| [2. Yıl Güz](./2-1/) | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ %60 | 3 / 5 |
+| [2. Yıl Bahar](./2-2/) | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ %17 | 1 / 6 |
 | [3. Yıl Güz](./3-1/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 7 |
 | [3. Yıl Bahar](./3-2/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 4 |
 | [4. Yıl Güz](./4-1/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 3 |
@@ -127,10 +127,10 @@ pie showData
 ### 🙋 Bu dersler katkını bekliyor
 Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölümüne göz at.
 
-- **1. Yıl Güz:** İngilizce 1, İş Sağlığı ve Güvenliği 1, Türk Dili 1
-- **1. Yıl Bahar:** Fizik 2, İmalat İşlemleri, İngilizce 2, İş Sağlığı ve Güvenliği 2, Malzeme Bilimi ve Mühendisliği, Matematik 2, Statik, Teknik Resim, Türk Dili 2
-- **2. Yıl Güz:** Akışkanlar Mekaniği, Bilgisayar Destekli Meslek Resmi, Diferansiyel Denklemler, Dinamik, Teknik İngilizce
-- **2. Yıl Bahar:** Elektrik ve Elektroniğin Temelleri, İmal Usulleri, Mukavemet, Ölçme Tekniği ve İstatistik, Sayısal Analiz, Termodinamik 1
+- **1. Yıl Güz:** İngilizce 1, İş Sağlığı ve Güvenliği 1
+- **1. Yıl Bahar:** İngilizce 2, İş Sağlığı ve Güvenliği 2
+- **2. Yıl Güz:** Dinamik, Teknik İngilizce
+- **2. Yıl Bahar:** Elektrik ve Elektroniğin Temelleri, İmal Usulleri, Mukavemet, Ölçme Tekniği ve İstatistik, Sayısal Analiz
 - **3. Yıl Güz:** Endüstriyel Hidrolik ve Pnömatik, Isı Geçişi, Makine Elemanları 1, Motorlar, Staj 1, Termodinamik 2, Toplam Kalite Yönetimi
 - **3. Yıl Bahar:** Bilgisayar Destekli İmalat, Endüstriyel Otomatik Kontrol, Makine Dinamiği ve Mekanizma Tekniği, Makine Elemanları 2
 - **4. Yıl Güz:** Atatürk İlkeleri ve İnkılap Tarihi 1, İş Yeri Eğitimi, Staj 2
